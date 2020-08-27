@@ -12,7 +12,7 @@ bibtex: '@incollection{singh2019krelu,
   booktitle = {Advances in Neural Information Processing Systems (NeurIPS)},
   year = {2019}
 }'
-paper: https://files.sri.inf.ethz.ch/website/papers/neurips19_krelu.pdf
+paperurl: https://files.sri.inf.ethz.ch/website/papers/neurips19_krelu.pdf
 slides: https://files.sri.inf.ethz.ch/website/slides/kPoly.pdf
 venue: NeurIPS
 ---
