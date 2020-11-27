@@ -2,7 +2,6 @@
 title: "Research Topics in Software Engineering"
 collection: teaching
 type: "Graduate seminar"
-permalink: rse2019
 venue: "ETH Zurich"
 date: 2019-09-01
 location: "Zurich, Switzerland"
