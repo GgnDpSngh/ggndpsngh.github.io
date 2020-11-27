@@ -1,8 +1,8 @@
 ---
-title: "Research Topics in Software Engineering"
+title: "Blockchain Security Seminar"
 collection: teaching
 type: "Graduate seminar"
-permalink: https://acl.inf.ethz.ch/teaching/master-seminar/2019/
+permalink: https://www.sri.inf.ethz.ch/teaching/bsec2019-fall
 venue: "ETH Zurich"
 date: 2019-09-01
 location: "Zurich, Switzerland"
