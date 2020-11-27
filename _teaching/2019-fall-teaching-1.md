@@ -1,10 +1,10 @@
 ---
-title: "Software Engineering Seminar"
+title: "Research Topics in Software Engineering"
 collection: teaching
-type: "Undergraduate seminar"
-permalink: https://www.sri.inf.ethz.ch/teaching/ses2018
+type: "Graduate seminar"
+permalink: https://acl.inf.ethz.ch/teaching/master-seminar/2019/
 venue: "ETH Zurich"
-date: 2018-09-01
+date: 2019-09-01
 location: "Zurich, Switzerland"
 ---
 
