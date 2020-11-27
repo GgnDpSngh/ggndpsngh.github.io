@@ -1,10 +1,10 @@
 ---
-title: "Blockchain Security Seminar"
+title: "Software Engineering Seminar"
 collection: teaching
-type: "Graduate seminar"
-permalink: https://www.sri.inf.ethz.ch/teaching/bsec2019-fall
+type: "Undergraduate seminar"
+permalink: https://www.sri.inf.ethz.ch/teaching/ses2018
 venue: "ETH Zurich"
-date: 2019-09-01
+date: 2018-09-01
 location: "Zurich, Switzerland"
 ---
 
