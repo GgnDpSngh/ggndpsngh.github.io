@@ -11,7 +11,7 @@ bibtex: '@incollection{raphael2020,
   booktitle = {International Conference on Machine Learning (ICML)},
   year = {2020}
 }'
-paperurl: /files/raphaelicml.pdf
+url: /files/raphaelicml.pdf
 slides: https://files.sri.inf.ethz.ch/website/slides/raphaelicml.pdf
 talk: https://icml.cc/virtual/2020/poster/5838
 venue: ICML
