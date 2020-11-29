@@ -44,6 +44,10 @@
 
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+       <br>
+      {% if post.link %}
+        <a href="{{ post.link }}"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a>
+      {% endif %}
     {% elsif post.collection == 'publications' %}
       {% if post.abstract %}
         <details><summary>Abstract</summary>
