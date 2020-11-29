@@ -5,5 +5,5 @@ type: "Undergraduate course"
 venue: "ETH Zurich"
 date: 2017-09-17
 location: "Zurich, Switzerland"
+link: https://www.cadmo.ethz.ch/education/lectures/HS17/DA/
 ---
-[Course Link](https://www.cadmo.ethz.ch/education/lectures/HS17/DA/)
