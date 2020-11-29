@@ -8,5 +8,5 @@ venue: ICLR
 projects: safeai
 link: https://openreview.net/forum?id=HJgeEh09KQ
 paperurl: /files/RefineZono.pdf
-citation: Gagandeep Singh, Timon Gehr, Markus Püschel, Martin Vechev
+citation: Gagandeep Singh, Timon Gehr, Markus Püschel, Martin Vechev, ICLR 2019.
 ---
