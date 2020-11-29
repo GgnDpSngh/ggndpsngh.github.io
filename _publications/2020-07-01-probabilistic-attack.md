@@ -5,6 +5,7 @@ projects: safeai
 authors: Raphaël Dang-Nhu, Gagandeep Singh, Pavol Bielik, Martin Vechev
 year: 2020
 month: 07
+permalink: ""
 bibtex: '@incollection{raphael2020,
   title = {Adversarial Attacks on Probabilistic Autoregressive Forecasting Models},
   author = {Dang-Nhu, Raphaël and Singh, Gagandeep and Bielik, Pavol and Vechev, Martin},
