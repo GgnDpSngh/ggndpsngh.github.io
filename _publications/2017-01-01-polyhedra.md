@@ -7,4 +7,5 @@ venue: ACM POPL
 projects: numerical-analysis
 awards:
 link: https://dl.acm.org/doi/10.1145/3093333.3009885
+citation: Gagandeep Singh, Markus Püschel, Martin Vechev
 ---
