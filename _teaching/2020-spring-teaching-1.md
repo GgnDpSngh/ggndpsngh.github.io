@@ -5,5 +5,5 @@ type: "Graduate course"
 venue: "ETH Zurich"
 date: 2020-02-17
 location: "Zurich, Switzerland"
+link: https://acl.inf.ethz.ch/teaching/fastcode/2020/
 ---
-[Course Link](https://acl.inf.ethz.ch/teaching/fastcode/2020/)
