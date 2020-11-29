@@ -51,3 +51,11 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Software
+=======
+<ul>
+  ELINA <a href="elina.ethz.ch"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+</ul>
+<ul>
+  ERAN <a href="https://github.com/eth-sri/eran"><i class="fab fa-fw fa-github zoom" aria-hidden="true"></i></a>
+</ul>
