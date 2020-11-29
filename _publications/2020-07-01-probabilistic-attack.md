@@ -16,5 +16,6 @@ paperurl: /files/raphaelicml.pdf
 link: 'http://proceedings.mlr.press/v119/dang-nhu20a.html'
 talk: https://icml.cc/virtual/2020/poster/5838
 venue: ICML
+citation: 'Raphaël Dang-Nhu, Gagandeep Singh, Pavol Bielik, Martin Vechev'
 ---
 
