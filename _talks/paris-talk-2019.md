@@ -6,6 +6,6 @@ permalink: /talks/paris-talk-2019
 venue: "DigiCosme Spring School on Formal Methods and Machine Learning"
 date: 2019-06-06
 location: "ENS Paris-Saclay, Cachan, France"
-link: https://formal-paris-saclay.fr/assets/files/singh.pptx
+paperurl: https://formal-paris-saclay.fr/assets/files/singh.pptx
 ---
 
