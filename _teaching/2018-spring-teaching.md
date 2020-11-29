@@ -5,5 +5,5 @@ type: "Graduate course"
 venue: "ETH Zurich"
 date: 2018-02-17
 location: "Zurich, Switzerland"
+link: https://www.sri.inf.ethz.ch/teaching/pass2018
 ---
-[Course Link](https://www.sri.inf.ethz.ch/teaching/pass2018)
