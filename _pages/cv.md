@@ -32,7 +32,7 @@ Awards
 =======
 * Sep 2014: ETH Medal for Best Master Thesis
 * Sep 2012: ETH Excellence Scholarship
-* Dec 2012: Preseident of India Gold Medal, IIT Patna
+* Dec 2012: President of India Gold Medal, IIT Patna
 * Dec 2012: Institute Silver Medal, IIT Patna
 
 Publications
