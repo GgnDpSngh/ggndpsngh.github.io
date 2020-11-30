@@ -11,9 +11,10 @@ redirect_from:
 
 Education
 ======
-* B.Tech. in Computer Science and Engineering, IIT Patna, 2012
-* Masters in Computer Science, ETH Zurich, 2014
 * Ph.D in Computer Science, ETH Zurich, 2020
+* Masters in Computer Science, ETH Zurich, 2014
+* B.Tech. in Computer Science and Engineering, IIT Patna, 2012
+
 
 Work experience
 ======
@@ -30,6 +31,7 @@ Work experience
 Awards
 =======
 * Sep 2014: ETH Medal for Best Master Thesis
+* Sep 2012: ETH Excellence Scholarship
 * Dec 2012: Preseident of India Gold Medal, IIT Patna
 * Dec 2012: Institute Silver Medal, IIT Patna
 
