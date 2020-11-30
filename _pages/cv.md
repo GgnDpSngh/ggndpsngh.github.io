@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, ETH Zurich, 2020
+* Ph.D. in Computer Science, ETH Zurich, 2020
 * Masters in Computer Science, ETH Zurich, 2014
 * B.Tech. in Computer Science and Engineering, IIT Patna, 2012
 
