@@ -40,7 +40,47 @@ Publications
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+ 
+Student
+=======
+<h2>
+Master students at ETH
+</h2>
+<ul>
+Makarchuk Gleb
+</ul>
+<ul>
+Dimitar Dimitrov
+</ul>
+<ul>
+Clemens Giuliani
+</ul>
+<ul>
+Raphaël Dang-Nhu
+</ul>
+<ul>
+Jonathan Mauer
+</ul>
+<ul>
+Rupanshu Ganvir
+</ul>
+<ul>
+Christoph Müller
+</ul>
+<ul>
+Jovan Andonov
+</ul>
+
+<h2>
+Undergraduate students at ETH
+</h2>
+<ul>
+Jakub Kotal
+</ul>
+<ul>
+Afra Amini
+</ul>
+
 Talks
 ======
   <ul>{% for post in site.talks reversed %}
