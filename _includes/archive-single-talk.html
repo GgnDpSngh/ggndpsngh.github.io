@@ -44,7 +44,7 @@
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
-    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}} <br>  {{ post.venue }},  {% if post.location %}{{post.location}} {% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }} {% endif %}
+    {% if post.venue %}<p class="archive__item-excerpt" itemprop="description">{{post.type}} <br>  {{ post.venue }},{% if post.location %}{{post.location}} {% endif %}, {{ post.date | default: "1900-01-01" | date: "%Y" }} {% endif %}
     {% if post.excerpt %}<p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>{% endif %}
   </article>
 </div>
