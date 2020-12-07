@@ -36,43 +36,7 @@ Publications
  
 Past Students
 =======
-<h2>
-Master students at ETH
-</h2>
-<ul>
-Makarchuk Gleb
-</ul>
-<ul>
-Dimitar Dimitrov
-</ul>
-<ul>
-Clemens Giuliani
-</ul>
-<ul>
-Raphaël Dang-Nhu
-</ul>
-<ul>
-Jonathan Mauer
-</ul>
-<ul>
-Rupanshu Ganvir
-</ul>
-<ul>
-Christoph Müller
-</ul>
-<ul>
-Jovan Andonov
-</ul>
-
-<h2>
-Undergraduate students at ETH
-</h2>
-<ul>
-Jakub Kotal
-</ul>
-<ul>
-Afra Amini
-</ul>
+Makarchuk Gleb, Dimitar Dimitrov, Clemens Giuliani, Raphaël Dang-Nhu, Jonathan Mauer, Rupanshu Ganvir, Christoph Müller, Jovan Andonov, Jakub Kotal, Afra Amini
 
 Talks
 ======
