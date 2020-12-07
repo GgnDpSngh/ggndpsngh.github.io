@@ -23,15 +23,9 @@ Education
 
 Work experience
 ======
-* Nov 2020-Aug 2021: Researcher
-  * VMware Research
-* Summer 2011: Research Assistant
-  * University of New South Wales
-  * Supervisor: Professor Arcot Sowmya
-
-* Summer 2010: Research Assistant
-  * University of Houston
-  * Supervisor: Professor Ioannis A. Kakadiaris
+* Nov 2020-Aug 2021: Researcher, VMware Research
+* Summer 2011: Research Assistant, University of New South Wales
+* Summer 2010: Research Assistant, University of Houston
   
 
 Publications
