@@ -34,7 +34,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
  
-Student
+Past Students
 =======
 <h2>
 Master students at ETH
