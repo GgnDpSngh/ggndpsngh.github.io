@@ -21,6 +21,7 @@ Nominated for ACM Doctoral Dissertation by ETH Zurich
 * B.Tech. in Computer Science and Engineering, IIT Patna, 2012
 <br>
 <i class="fas fa-medal zoom" aria-hidden="true"></i> President of India Gold Medal
+<br>
 <i class="fas fa-medal zoom" aria-hidden="true"></i> Institute Silver Medal 
 
 
