@@ -12,13 +12,19 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, ETH Zurich, 2020
+<ul> Nominated for ACM Doctoral Dissertation by ETH Zurich </ul>
+<ul> Nominated for ETH Medal for Outstanding Thesis </ul>
 * Masters in Computer Science, ETH Zurich, 2014
+<ul> ETH Medal for outstanding thesis </ul>
+<ul> ETH Excellence Scholarship </ul>
 * B.Tech. in Computer Science and Engineering, IIT Patna, 2012
+<ul> President of India Gold Medal </ul>
+<ul> Institute Silver Medal </ul>
 
 
 Work experience
 ======
-* Nov 2020-Aug 2021: Postdoctoral Researcher
+* Nov 2020-Aug 2021: Researcher
   * VMware Research
 * Summer 2011: Research Assistant
   * University of New South Wales
@@ -28,12 +34,6 @@ Work experience
   * University of Houston
   * Supervisor: Professor Ioannis A. Kakadiaris
   
-Awards
-=======
-* Sep 2014: ETH Medal for Best Master Thesis
-* Sep 2012: ETH Excellence Scholarship
-* Dec 2012: President of India Gold Medal, IIT Patna
-* Dec 2012: Institute Silver Medal, IIT Patna
 
 Publications
 ======
