@@ -14,11 +14,15 @@ Education
 * Ph.D. in Computer Science, ETH Zurich, 2020
 <ul> * Nominated for ACM Doctoral Dissertation by ETH Zurich </ul>
 * Masters in Computer Science, ETH Zurich, 2014
-<ul> * ETH Medal for Outstanding Master Thesis <i class="fas fa-medal zoom" aria-hidden="true"></i> </ul>
-<ul> * ETH Excellence Scholarship </ul>
+<br>
+<i class="fas fa-medal zoom" aria-hidden="true"></i> ETH Medal for Outstanding Master Thesis  
+<br>
+<i class="fas fa-medal zoom" aria-hidden="true"></i> ETH Excellence Scholarship 
 * B.Tech. in Computer Science and Engineering, IIT Patna, 2012
-<ul> * President of India Gold Medal </ul>
-<ul> * Institute Silver Medal </ul>
+<br>
+<i class="fas fa-medal zoom" aria-hidden="true"></i> President of India Gold Medal
+<br>
+<i class="fas fa-medal zoom" aria-hidden="true"></i> Institute Silver Medal 
 
 
 Work experience
