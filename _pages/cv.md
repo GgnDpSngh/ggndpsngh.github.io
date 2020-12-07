@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D. in Computer Science, ETH Zurich, 2020
-<ul>* Nominated for ACM Doctoral Dissertation by ETH Zurich </ul>
+- Nominated for ACM Doctoral Dissertation by ETH Zurich
 * Masters in Computer Science, ETH Zurich, 2014
 <br>
 <i class="fas fa-medal zoom" aria-hidden="true"></i> ETH Medal for Outstanding Master Thesis  
