@@ -13,7 +13,6 @@ Education
 ======
 * Ph.D. in Computer Science, ETH Zurich, 2020
 <ul> * Nominated for ACM Doctoral Dissertation by ETH Zurich </ul>
-<ul> * Nominated for ETH Medal for Outstanding Ph.D. Thesis </ul>
 * Masters in Computer Science, ETH Zurich, 2014
 <ul> * ETH Medal for Outstanding Master Thesis </ul>
 <ul> * ETH Excellence Scholarship </ul>
