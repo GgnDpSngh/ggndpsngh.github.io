@@ -1,15 +1,22 @@
 ---
-layout: arxive
+layout: archive
 title: Teaching
 permalink: /teaching/
 author_profile: true
 ---
 
 {% include base_path %}
+<h2>Current Courses at UIUC</h2>
+    {% include get-course.html ref="lai2021"   output="horizontal" %}
 
-
-       {% for post in site.teaching reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-        
+ 	<h2>Past Courses at ETH Zurich</h2>
+    {% include get-course.html ref="asl2020"   output="horizontal" %}
+	    {% include get-course.html ref="fastcode2017"   output="horizontal" %}
+        {% include get-course.html ref="riai2019"   output="horizontal" %}
+        {% include get-course.html ref="bse2018"   output="horizontal" %}
+        {% include get-course.html ref="rse2019"   output="horizontal" %}
+        {% include get-course.html ref="pass2018"   output="horizontal" %}
+        {% include get-course.html ref="ses2018"   output="horizontal" %}
+        {% include get-course.html ref="ads2017"  output="horizontal" %}
+        {% include get-course.html ref="pas2016"   output="horizontal" %}
     
