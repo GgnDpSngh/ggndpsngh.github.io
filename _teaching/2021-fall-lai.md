@@ -6,6 +6,7 @@ ref: lai2021
 description: Advanced graduate course discussing the latest advances in combining logical reasoning with traditional data-driven methods.
 semester: Fall 2021
 lecturer: Prof. Gagandeep Singh
+date: 2020-02-17
 lecture-time-place: Wed 11-12:15, 0216 Siebel Center for Comp Sci 
 credits: 4
 ---
