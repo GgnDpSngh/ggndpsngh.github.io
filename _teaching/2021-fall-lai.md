@@ -23,7 +23,7 @@ credits: 4
 
 <ul>
 
-Neurosymbolic computing
+  <li>Neurosymbolic computing </li>
 <li>Training and querying with logic</li>
 <li>Verification of AI systems</li>
 <li>Robust training methods</li>
