@@ -3,8 +3,6 @@ title: Logic and Artificial Intelligence
 collection: teaching
 type: "Advanced Graduate course"
 ref: lai2021
-date: 2021-08-25
-location: "2021"
 description: Advanced graduate course discussing the latest advances in combining logical reasoning with traditional data-driven methods.
 semester: Fall 2021
 lecturer: Prof. Gagandeep Singh
