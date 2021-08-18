@@ -29,8 +29,9 @@ credits: 4
 <li>Machine learning for verification</li>
 <li>Symbolic explanations of neural networks</li>
   <li>Programming by example</li>
+	<li>Probabilistic circuits</li>
 <li>Neurosymbolic computing </li>
-<li>Probabilistic circuits</li>
+
 
 </ul>
 
@@ -84,6 +85,54 @@ credits: 4
 	<tr>
 	<td>Oct 06</td>
 	<td>Approximate Verification of neural networks: Zonotopes</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Oct 13</td>
+	<td>Approximate Verification of neural networks: DeepPoly</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Oct 20</td>
+	<td>Approximate Verification of neural networks: k-ReLU</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Oct 27</td>
+	<td>Robust training of neural networks: Zonotopes</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Nov 03</td>
+	<td>Machine learning for verification</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Nov 10</td>
+	<td>Symbolic explanation of neural networks: Zonotopes</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Nov 17</td>
+	<td>Programming by example</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Dec 01</td>
+	<td>Probabilistic circuits</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Dec 08</td>
+	<td>Neurosymbolic computing</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
