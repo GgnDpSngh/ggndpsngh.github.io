@@ -48,4 +48,44 @@ credits: 4
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
+	
+	<tr>
+	<td>Sep 1</td>
+	<td>White box adversarial attacks</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Sep 8</td>
+	<td>Black box adversarial attacks</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	
+	<tr>
+	<td>Sep 15</td>
+	<td>Training and querying with Logic</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	
+	<tr>
+	<td>Sep 22</td>
+	<td>Exact Verification of neural networks</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Sep 29</td>
+	<td>Approximate Verification of neural networks: Box </td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Oct 06</td>
+	<td>Approximate Verification of neural networks: Zonotopes</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	
   </table>
