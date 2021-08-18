@@ -22,14 +22,31 @@ credits: 4
 
 <ul>
 
-  <li>Neurosymbolic computing </li>
+  <li> White and black-box adversarial examples </li> 
 <li>Training and querying with logic</li>
 <li>Verification of AI systems</li>
 <li>Robust training methods</li>
 <li>Machine learning for verification</li>
-<li>Programming by example</li>
-<li>Probabilistic circuits</li>
 <li>Symbolic explanations of neural networks</li>
+  <li>Programming by example</li>
+<li>Neurosymbolic computing </li>
+<li>Probabilistic circuits</li>
+
 </ul>
 
 <h2 id="lectures">Lectures</h2>
+<table centering border="0" width="100%" cellspacing="0" cellpadding="0">
+
+	<th width="10%">Date</th>
+	<th width=40%>Title</th>
+	<th width="10%">Slides</th>
+	<th width=40%> Reading material </th>
+
+<tr>
+	<td>Aug 25</td>
+	<td>Introduction</td>  
+	<td></td>  
+	<td></td>
+	<td></td>
+</tr>
+  </table>
