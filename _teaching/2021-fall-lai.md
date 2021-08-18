@@ -45,7 +45,7 @@ credits: 4
 <tr>
 	<td>Aug 25</td>
 	<td>Introduction</td>  
-	<td><a href="" class="pdf" title="intro"><img src="/assets/icons/icon-slides.svg" class="svg-icon" border="0" alt="PDF"></a></td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
   </table>
