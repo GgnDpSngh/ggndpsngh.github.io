@@ -125,7 +125,7 @@ credits: 4
 	<td></td>
 </tr>
 	<tr>
-	<td>Dec 19, 01</td>
+	<td>Nov 19, Dec 01</td>
 	<td>Probabilistic circuits</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
