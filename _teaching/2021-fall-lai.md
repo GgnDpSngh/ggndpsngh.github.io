@@ -51,87 +51,87 @@ credits: 4
 </tr>
 	
 	<tr>
-	<td>Sep 1</td>
+	<td>Agu 27, Sep 1</td>
 	<td>White box adversarial attacks</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Sep 8</td>
+	<td>Sep 3, 8</td>
 	<td>Black box adversarial attacks</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
 	<tr>
-	<td>Sep 15</td>
+	<td>Sep 10, 15</td>
 	<td>Training and querying with Logic</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
 	<tr>
-	<td>Sep 22</td>
+	<td>Sep 17, 22</td>
 	<td>Exact Verification of neural networks</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Sep 29</td>
+	<td>Sep 24, 29</td>
 	<td>Approximate Verification of neural networks: Box </td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 06</td>
+	<td>Oct 01, 06</td>
 	<td>Approximate Verification of neural networks: Zonotopes</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 13</td>
+	<td>Oct 08, 13</td>
 	<td>Approximate Verification of neural networks: DeepPoly</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 20</td>
+	<td>Oct 15, 20</td>
 	<td>Approximate Verification of neural networks: k-ReLU</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 27</td>
+	<td>Oct 22, 27</td>
 	<td>Robust training of neural networks: Zonotopes</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Nov 03</td>
+	<td>Oct 29, Nov 03</td>
 	<td>Machine learning for verification</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Nov 10</td>
+	<td>Nov 05, 10</td>
 	<td>Symbolic explanation of neural networks: Zonotopes</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Nov 17</td>
+	<td>Nov 12, 17</td>
 	<td>Programming by example</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Dec 01</td>
+	<td>Dec 19, 01</td>
 	<td>Probabilistic circuits</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Dec 08</td>
+	<td>Dec 03, 08</td>
 	<td>Neurosymbolic computing</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
