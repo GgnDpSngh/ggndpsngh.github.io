@@ -51,7 +51,7 @@ credits: 4
 </tr>
 	
 	<tr>
-	<td>Agu 27, Sep 1</td>
+	<td>Aug 27, Sep 1</td>
 	<td>White box adversarial attacks</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
