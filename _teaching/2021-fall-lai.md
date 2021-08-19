@@ -38,10 +38,10 @@ credits: 4
 <h2 id="lectures">Lectures</h2>
 <table centering border="0" width="100%" cellspacing="0" cellpadding="0">
 
-	<th width="10%">Date</th>
+	<th width="20%">Date</th>
 	<th width="40%">Title</th>
 	<th width="10%">Slides</th>
-	<th width="40%"> Reading material </th>
+	<th width="30%"> Reading material </th>
 
 <tr>
 	<td>Aug 25</td>
