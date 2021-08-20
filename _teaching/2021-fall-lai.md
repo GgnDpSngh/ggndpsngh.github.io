@@ -130,10 +130,10 @@ The course will be taught in person. For students preferring to attend remotely,
   
 <h2 id="grading">Grading</h2>
 
-The students will work in group of 2 or individually on:
+The students will work in a group of 2 or individually on:
 <ul>
 	<li> a course project </li>
-	<li> conference style paper presentation on one of the topics taught in the course towards the end of the semester (see dates above). The students are free to select any paper but it must be approved by us</li>
+	<li> conference-style paper presentation on one of the topics taught in the course towards the end of the semester (see dates above). The students are free to select any paper, but it must be approved by us</li>
 	</ul>
 
 Both project and presentation will make up 50 % of the grade each. 
