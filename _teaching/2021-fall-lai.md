@@ -93,27 +93,33 @@ credits: 4
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 20, 22, 27, 29</td>
+	<td>Oct 20, 22</td>
 	<td>Machine learning for verification</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Nov 03, 05, 10, 12</td>
+	<td>Oct 27, 29</td>
 	<td>Programming by example</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
 	<tr>
-	<td>Nov 17, 19</td>
+	<td>Nov 03, 05</td>
 	<td>Probabilistic circuits</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Dec 01, 03, 08</td>
+	<td>Nov 10, 12</td>
 	<td>Neurosymbolic computing</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Nov 17, 19, Dec 01, 03, 08</td>
+	<td>Student Presentations</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
