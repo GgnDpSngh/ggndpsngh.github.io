@@ -22,7 +22,6 @@ credits: 4
 
 <ul>
 
-  <li> White and black-box adversarial examples </li> 
 <li>Training and querying with logic</li>
 <li>Verification of AI systems</li>
 <li>Robust training methods</li>
@@ -44,94 +43,76 @@ credits: 4
 	<th width="35%"> Reading material </th>
 
 <tr>
-	<td>Aug 25</td>
+	<td>Aug 25, 27</td>
 	<td>Introduction</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
 	<tr>
-	<td>Aug 27, Sep 1</td>
-	<td>White box adversarial attacks</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
-</tr>
-	<tr>
-	<td>Sep 3, 8</td>
-	<td>Black box adversarial attacks</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
-</tr>
-	
-	<tr>
-	<td>Sep 10, 15</td>
+	<td>Sep 1, 3</td>
 	<td>Training and querying with Logic</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
 	<tr>
-	<td>Sep 17, 22</td>
+	<td>Sep 8, 10</td>
 	<td>Exact Verification of neural networks</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Sep 24, 29</td>
-	<td>Approximate Verification of neural networks: Box </td>  
+	<td>Sep 15, 17</td>
+	<td>Approximate Verification of neural networks: Box + Zonotopes</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 01, 06</td>
-	<td>Approximate Verification of neural networks: Zonotopes</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
-</tr>
-	<tr>
-	<td>Oct 08, 13</td>
+	<td>Sep 22, 24</td>
 	<td>Approximate Verification of neural networks: DeepPoly</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 15, 20</td>
+	<td>Sep 29, Oct 01</td>
 	<td>Approximate Verification of neural networks: k-ReLU</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 22, 27</td>
-	<td>Robust training of neural networks: Zonotopes</td>  
+	<td>Oct 06, 08</td>
+	<td>Robust training of neural networks</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 29, Nov 03</td>
+	<td>Oct 13, 15</td>
+	<td>Symbolic explanation of neural networks</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Oct 20, 22, 27, 29</td>
 	<td>Machine learning for verification</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Nov 05, 10</td>
-	<td>Symbolic explanation of neural networks: Zonotopes</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
-</tr>
-	<tr>
-	<td>Nov 12, 17</td>
+	<td>Nov 03, 05, 10, 12</td>
 	<td>Programming by example</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
+	
 	<tr>
-	<td>Nov 19, Dec 01</td>
+	<td>Nov 17, 19</td>
 	<td>Probabilistic circuits</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Dec 03, 08</td>
+	<td>Dec 01, 03, 08</td>
 	<td>Neurosymbolic computing</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
