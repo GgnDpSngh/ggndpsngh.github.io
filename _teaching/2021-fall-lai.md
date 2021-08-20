@@ -33,6 +33,7 @@ credits: 4
 
 
 </ul>
+The course will be taught in person. For students preferring to attend remotely, the video recording of the lectures will be made available online. 
 
 <h2 id="lectures">Lectures</h2>
 <table centering border="0" width="100%" cellspacing="0" cellpadding="0">
@@ -128,3 +129,11 @@ credits: 4
   
   
 <h2 id="grading">Grading</h2>
+
+The students will work in group of 2 or individually on:
+<ul>
+	<li> a course project </li>
+	<li> conference style paper presentation on one of the topics taught in the course towards the end of the semester (see dates above). The students are free to select any paper but it must be approved by us</li>
+	</ul>
+
+Both project and presentation will make up 50 % of the grade each. 
