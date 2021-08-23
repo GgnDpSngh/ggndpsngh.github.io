@@ -28,7 +28,7 @@ credits: 4
 <li>Symbolic explanations of neural networks</li>
 <li>Training and querying with logic</li>
 <li>Robust training methods</li>
-  <li>Programming by example</li>
+  <li>Neural network repair</li>
 	<li>Probabilistic circuits</li>
 <li>Neurosymbolic computing </li>
 <li>Machine learning for verification</li>
@@ -97,7 +97,7 @@ The course will be taught in person. For students preferring to attend remotely,
 </tr>
 	<tr>
 	<td>Oct 20, 22</td>
-	<td>Programming by example</td>  
+	<td>Neural network repair</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
