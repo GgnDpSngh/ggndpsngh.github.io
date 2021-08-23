@@ -7,7 +7,8 @@ description: Advanced graduate course discussing the latest advances in combinin
 semester: Fall 2021
 lecturer: Prof. Gagandeep Singh
 date: 2021-08-25 
-head-ta: <a href="http://www.linyil.com/"> Linyi Li </a>
+head-ta: Linyi Li 
+head-ta-url: http://www.linyil.com/
 venue: "Wed, Fri 11-12:15 pm, 0216 Siebel Center for Comp Sci"
 credits: 4
 ---
