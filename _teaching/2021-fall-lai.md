@@ -22,14 +22,14 @@ credits: 4
 
 <ul>
 
-<li>Training and querying with logic</li>
 <li>Verification of AI systems</li>
-<li>Robust training methods</li>
-<li>Machine learning for verification</li>
 <li>Symbolic explanations of neural networks</li>
+<li>Training and querying with logic</li>
+<li>Robust training methods</li>
   <li>Programming by example</li>
 	<li>Probabilistic circuits</li>
 <li>Neurosymbolic computing </li>
+<li>Machine learning for verification</li>
 
 
 </ul>
@@ -52,69 +52,69 @@ The course will be taught in person. For students preferring to attend remotely,
 	
 	<tr>
 	<td>Sep 1, 3</td>
-	<td>Training and querying with Logic</td>  
+	<td>Exact Verification of neural networks</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
 	<tr>
 	<td>Sep 8, 10</td>
-	<td>Exact Verification of neural networks</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
-</tr>
-	<tr>
-	<td>Sep 15, 17</td>
 	<td>Approximate Verification of neural networks: Box + Zonotopes</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Sep 22, 24</td>
-	<td>Approximate Verification of neural networks: DeepPoly</td>  
+	<td>Sep 15, 17</td>
+	<td>Approximate Verification of neural networks: DeepPoly + Refinement</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Sep 29, Oct 01</td>
+	<td>Sep 22, 24</td>
 	<td>Approximate Verification of neural networks: k-ReLU</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
-	<td>Oct 06, 08</td>
-	<td>Robust training of neural networks</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
-</tr>
-	<tr>
-	<td>Oct 13, 15</td>
+	<td>Sep 29, Oct 01</td>
 	<td>Symbolic explanation of neural networks</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
+	<td>Oct 06, 08</td>
+	<td>Training and querying with Logic</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
+	<td>Oct 13, 15</td>
+	<td>Robust training of neural networks</td>  
+	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td></td>
+</tr>
+	<tr>
 	<td>Oct 20, 22</td>
-	<td>Machine learning for verification</td>  
+	<td>Programming by example</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
 	<td>Oct 27, 29</td>
-	<td>Programming by example</td>  
+	<td>Probabilistic circuits</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
 	<tr>
 	<td>Nov 03, 05</td>
-	<td>Probabilistic circuits</td>  
+	<td>Neurosymbolic computing</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
 	<td>Nov 10, 12</td>
-	<td>Neurosymbolic computing</td>  
+	<td>Machine Learning for verification</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
