@@ -146,7 +146,7 @@ The students will work in a group of 2 or individually on:
 
 Both project and presentation will make up 50 % of the grade each. 
 
-<h2 id="timeline"> Timeline </h2>
+<h2 id="timeline"> Key Dates </h2>
 
 <table centering border="0" width="100%" cellspacing="0" cellpadding="0">
 
