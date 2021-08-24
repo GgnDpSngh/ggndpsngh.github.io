@@ -163,7 +163,7 @@ Both project and presentation will make up 50 % of the grade each.
 </tr>
 	
 	<tr>
-	<td>Nov 15</td>
+	<td>Nov 10</td>
 	<td>Project submission</td>  
 	
 </tr>
