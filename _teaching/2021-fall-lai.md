@@ -145,3 +145,26 @@ The students will work in a group of 2 or individually on:
 	</ul>
 
 Both project and presentation will make up 50 % of the grade each. 
+
+<h2 id="timeline"> Timeline </h2>
+
+<table centering border="0" width="100%" cellspacing="0" cellpadding="0">
+
+	<th width="30%">Deadline</th>
+	<th width="70%">Task</th>
+
+<tr>
+	<td>Sep 21</td>
+	<td>Register your group for the project and presentation</td>  
+</tr>
+	<tr>
+	<td>Oct 26</td>
+	<td>Selecting a paper to present</td>  
+</tr>
+	
+	<tr>
+	<td>Nov 15</td>
+	<td>Project submission</td>  
+	
+</tr>
+	</table>
