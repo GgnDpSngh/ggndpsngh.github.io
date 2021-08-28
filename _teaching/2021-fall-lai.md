@@ -54,20 +54,20 @@ The course will be taught in person. For students preferring to attend remotely,
 	
 	<tr>
 	<td>Sep 1, 3</td>
-	<td>Exact Verification of neural networks</td>  
+	<td>Verification of neural networks: Box + MILP</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
 	<tr>
 	<td>Sep 8, 10</td>
-	<td>Approximate Verification of neural networks: Box + Zonotopes</td>  
+	<td>Verification of neural networks: Zonotopes</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
 	<td>Sep 15, 17</td>
-	<td>Approximate Verification of neural networks: DeepPoly + Refinement</td>  
+	<td> Verification of neural networks: DeepPoly + Refinement</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
@@ -79,7 +79,7 @@ The course will be taught in person. For students preferring to attend remotely,
 </tr>
 	<tr>
 	<td>Sep 24</td>
-	<td>Approximate Verification of neural networks: k-ReLU</td>  
+	<td>Verification of neural networks: k-ReLU</td>  
 	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
