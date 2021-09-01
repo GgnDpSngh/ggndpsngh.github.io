@@ -116,21 +116,26 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Oct 20, 22</td>
 	<td>Neural network repair</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="repair"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td>
+		<p>DDNN<a href="https://arxiv.org/pdf/2104.04413.pdf" class="pdf" title="repair"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		</td>
 </tr>
 	<tr>
 	<td>Oct 27, 29</td>
 	<td>Probabilistic circuits</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="circuits"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><p>PC<a href="http://starai.cs.ucla.edu/papers/ProbCirc20.pdf" class="pdf" title="repair"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		</td>
 </tr>
 	
 	<tr>
 	<td>Nov 03, 05</td>
 	<td>Neurosymbolic computing</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="neurosymbolic"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><p>ns-vqa<a href="https://arxiv.org/pdf/1810.02338.pdf" class="pdf" title="neurosymbolic"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		<p>ns-cl<a href="https://arxiv.org/pdf/1904.12584.pdf" class="pdf" title="neurosymbolic"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		</td>
 </tr>
 	<tr>
 	<td>Nov 10, 12</td>
