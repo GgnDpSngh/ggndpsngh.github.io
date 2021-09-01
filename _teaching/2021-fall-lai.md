@@ -89,25 +89,28 @@ The course will be taught in person. For students preferring to attend remotely,
 	<td>Sep 24</td>
 	<td>Verification of neural networks: k-ReLU</td>  
 	<td><a href="" class="pdf" title="krelu"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td><p>DeepPoly<a href="/files/neurips19_krelu.pdf" class="pdf" title="krelu"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
+	<td><p>k-ReLU<a href="/files/neurips19_krelu.pdf" class="pdf" title="krelu"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
 </tr>
 	<tr>
 	<td>Sep 29, Oct 01</td>
 	<td>Symbolic explanation of neural networks</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="symex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><p>Symbolic explanation<a href="https://arxiv.org/pdf/1802.07384.pdf" class="pdf" title="symex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
 </tr>
 	<tr>
 	<td>Oct 06, 08</td>
 	<td>Training and querying with Logic</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="dl2"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><p>DL2<a href="http://proceedings.mlr.press/v97/fischer19a/fischer19a.pdf" class="pdf" title="dl2"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
 </tr>
 	<tr>
 	<td>Oct 13, 15</td>
 	<td>Robust training of neural networks</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td>
+		<p>Robust training<a href="https://arxiv.org/pdf/1810.12715.pdf" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+		<a href="https://files.sri.inf.ethz.ch/website/papers/icml18-diffai.pdf" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		</td>
 </tr>
 	<tr>
 	<td>Oct 20, 22</td>
