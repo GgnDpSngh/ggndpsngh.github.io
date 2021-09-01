@@ -88,8 +88,8 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Sep 24</td>
 	<td>Verification of neural networks: k-ReLU</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="krelu"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><p>DeepPoly<a href="/files/neurips19_krelu.pdf" class="pdf" title="krelu"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
 </tr>
 	<tr>
 	<td>Sep 29, Oct 01</td>
