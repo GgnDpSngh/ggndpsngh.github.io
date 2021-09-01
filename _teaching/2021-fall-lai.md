@@ -143,6 +143,8 @@ The course will be taught in person. For students preferring to attend remotely,
 	<td><a href="" class="pdf" title="mlv"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td>
 		<p>GNN branching<a href="https://arxiv.org/pdf/1912.01329.pdf" class="pdf" title="mlv"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		<p>Lait<a href="https://files.sri.inf.ethz.ch/website/papers/pldi20-lait.pdf" class="pdf" title="mlv"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		
 		</td>
 </tr>
 	<tr>
