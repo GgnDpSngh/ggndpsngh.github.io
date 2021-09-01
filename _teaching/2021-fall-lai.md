@@ -95,7 +95,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<td>Sep 29, Oct 01</td>
 	<td>Symbolic explanation of neural networks</td>  
 	<td><a href="" class="pdf" title="symex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td><p>Symbolic explanation<a href="https://arxiv.org/pdf/1802.07384.pdf" class="pdf" title="symex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
+	<td><p>Polaris<a href="https://arxiv.org/pdf/1802.07384.pdf" class="pdf" title="symex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
 </tr>
 	<tr>
 	<td>Oct 06, 08</td>
