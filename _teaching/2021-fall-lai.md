@@ -43,7 +43,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<th width="15%">Date</th>
 	<th width="40%">Title</th>
 	<th width="10%">Slides</th>
-	<th width="50%"> Reading material </th>
+	<th width="35%"> Reading material </th>
 
 <tr>
 	<td>Aug 25, 27</td>
@@ -108,8 +108,9 @@ The course will be taught in person. For students preferring to attend remotely,
 	<td>Robust training of neural networks</td>  
 	<td><a href="" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td>
-		<p>Robust training<a href="https://arxiv.org/pdf/1810.12715.pdf" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
-		<a href="https://files.sri.inf.ethz.ch/website/papers/icml18-diffai.pdf" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		<p>IBP<a href="https://arxiv.org/pdf/1810.12715.pdf" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		
+		<p>DiffAI<a href="https://files.sri.inf.ethz.ch/website/papers/icml18-diffai.pdf" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		</td>
 </tr>
 	<tr>
