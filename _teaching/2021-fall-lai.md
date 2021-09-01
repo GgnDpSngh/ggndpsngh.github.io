@@ -140,8 +140,10 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Nov 10, 12</td>
 	<td>Machine Learning for verification</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="mlv"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td>
+		<p>GNN branching<a href="https://arxiv.org/pdf/1912.01329.pdf" class="pdf" title="mlv"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		</td>
 </tr>
 	<tr>
 	<td>Nov 17, 19, Dec 01, 03, 08</td>
