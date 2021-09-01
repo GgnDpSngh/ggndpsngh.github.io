@@ -43,7 +43,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<th width="15%">Date</th>
 	<th width="40%">Title</th>
 	<th width="10%">Slides</th>
-	<th width="35%"> Reading material </th>
+	<th width="50%"> Reading material </th>
 
 <tr>
 	<td>Aug 25, 27</td>
