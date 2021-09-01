@@ -57,22 +57,27 @@ The course will be taught in person. For students preferring to attend remotely,
 	<td>Verification of neural networks: Box + MILP</td>  
 	<td><a href="" class="pdf" title="Box + MILP"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td>
-		<p><a href="https://files.sri.inf.ethz.ch/website/papers/sp2018.pdf" class="pdf" title="Box + MILP">Box<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
-		<p><a href="https://arxiv.org/abs/1711.07356" class="pdf" title="Box + MILP">MILP<i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		<p>Box<a href="https://arxiv.org/pdf/1804.10829.pdf" class="pdf" title="Box + MILP"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		<p>MILP<a href="https://arxiv.org/abs/1711.07356" class="pdf" title="Box + MILP"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		</td>  
 </tr>
 	
 	<tr>
 	<td>Sep 8, 10</td>
 	<td>Verification of neural networks: Zonotopes</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td>
+		<p>Zonotopes <a href="https://www.sri.inf.ethz.ch/publications/gehr2018ai" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
+		<a href="/files/DeepZ.pdf" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		</td>
 </tr>
 	<tr>
 	<td>Sep 15, 17</td>
 	<td> Verification of neural networks: DeepPoly + Refinement</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td><a href="" class="pdf" title="DeepPoly"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><p>DeepPoly<a href="/files/DeepPoly.pdf" class="pdf" title="Deeppoly"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		<p>Refinement<a href="/files/RefineZono.pdf" class="pdf" title="Refinement"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		</td>
 </tr>
 	<tr>
 	<td>Sep 22</td>
