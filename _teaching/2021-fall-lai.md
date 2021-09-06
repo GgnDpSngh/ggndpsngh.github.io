@@ -55,7 +55,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Sep 1, 3</td>
 	<td>Verification of neural networks: Box + MILP</td>  
-	<td><a href="" class="pdf" title="Box + MILP"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/lai21/lai-box+milp.pptx" class="pdf" title="Box + MILP"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td>
 		<p>Box<a href="https://arxiv.org/pdf/1804.10829.pdf" class="pdf" title="Box + MILP"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		<p>MILP<a href="https://arxiv.org/abs/1711.07356" class="pdf" title="Box + MILP"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
