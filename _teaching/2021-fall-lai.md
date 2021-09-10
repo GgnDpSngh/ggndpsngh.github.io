@@ -68,7 +68,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<td><p><a href="/slides/lai21/lai-zonotopes.pptx" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		<p>Lecture notes <a href="/slides/lai21/lai-zonotopes-notes.pdf" class="pdf" title="zonotopes"> <i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>  
 	<td>
-		<p> <a href="https://www.sri.inf.ethz.ch/publications/gehr2018ai" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		<p> <a href="https://files.sri.inf.ethz.ch/website/papers/sp2018.pdf" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		<p><a href="/files/DeepZ.pdf" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		<p><a href="http://www.lix.polytechnique.fr/~putot/Publications/cav09_taylor.pdf" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		<p><a href="https://arxiv.org/pdf/1002.2236.pdf" class="pdf" title="zonotopes"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
