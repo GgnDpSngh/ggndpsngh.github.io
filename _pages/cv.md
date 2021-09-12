@@ -13,7 +13,7 @@ Education
 ======
 * Ph.D. in Computer Science, ETH Zurich, 2020
   * Title: Scalable Automated Reasoning for Programs and Deep Learning
-  * <i class="fas fa-medal zoom" aria-hidden="true"></i> <a href="https://www.sigplan.org/Awards/Dissertation/">ACM SIGPLAN Doctoral Dissertation Award </a>
+  * <i class="fas fa-medal zoom" aria-hidden="true"></i> <a href="https://www.sigplan.org/Awards/Dissertation/">John C. Reynolds Doctoral Dissertation Award </a>
 * Masters in Computer Science, ETH Zurich, 2014
   * <i class="fas fa-medal zoom" aria-hidden="true"></i> ETH Medal for Outstanding Master Thesis  
   * <i class="fas fa-award zoom" aria-hidden="true"></i> ETH Excellence Scholarship 
