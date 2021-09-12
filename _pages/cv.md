@@ -18,7 +18,7 @@ Education
   * <i class="fas fa-medal zoom" aria-hidden="true"></i> ETH Medal for Outstanding Master Thesis  
   * <i class="fas fa-award zoom" aria-hidden="true"></i> ETH Excellence Scholarship 
 * B.Tech. in Computer Science and Engineering, IIT Patna, 2012
-  * <i class="fas fa-medal zoom" aria-hidden="true"></i> President of India Gold Medal
+  * <i class="fas fa-medal zoom" aria-hidden="true"></i> <a href="http://www.bihartimes.in/Newsbihar/2012/Dec/newsbihar24Dec2.html"> President of India Gold Medal </a>
   * <i class="fas fa-medal zoom" aria-hidden="true"></i> Institute Silver Medal 
 
 
