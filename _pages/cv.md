@@ -15,7 +15,7 @@ Education
   * Title: Scalable Automated Reasoning for Programs and Deep Learning
   * <i class="fas fa-medal zoom" aria-hidden="true"></i> <a href="https://www.sigplan.org/Awards/Dissertation/">John C. Reynolds Doctoral Dissertation Award </a>
 * Masters in Computer Science, ETH Zurich, 2014
-  * <i class="fas fa-medal zoom" aria-hidden="true"></i> ETH Medal for Outstanding Master Thesis  
+  * <i class="fas fa-medal zoom" aria-hidden="true"></i> ETH Medal for Outstanding Master <a href="https://www.research-collection.ethz.ch/handle/20.500.11850/154566"> Thesis</a>  
   * <i class="fas fa-award zoom" aria-hidden="true"></i> ETH Excellence Scholarship 
 * B.Tech. in Computer Science and Engineering, IIT Patna, 2012
   * <i class="fas fa-medal zoom" aria-hidden="true"></i> <a href="http://www.bihartimes.in/Newsbihar/2012/Dec/newsbihar24Dec2.html"> President of India Gold Medal </a>
