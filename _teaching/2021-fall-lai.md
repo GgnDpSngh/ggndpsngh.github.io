@@ -77,7 +77,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Sep 15, 17</td>
 	<td> Verification of neural networks: DeepPoly + Refinement</td>  
-	<td><a href="" class="pdf" title="DeepPoly"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/lai21/lai-deeppoly.pptx" class="pdf" title="DeepPoly"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td><p>DeepPoly<a href="/files/DeepPoly.pdf" class="pdf" title="Deeppoly"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		<p>Refinement<a href="/files/RefineZono.pdf" class="pdf" title="Refinement"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		</td>
