@@ -85,7 +85,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Sep 22</td>
 	<td>Project presentation</td>  
-	<td><a href="" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/lai21/lai-project.pptx" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	<tr>
