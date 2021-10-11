@@ -97,13 +97,13 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Sep 29, Oct 01</td>
 	<td>Symbolic explanation of neural networks</td>  
-	<td><a href="slides/lai21/lai-explanations.pptx" class="pdf" title="symex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/lai21/lai-explanations.pptx" class="pdf" title="symex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td><p>Polaris<a href="https://arxiv.org/pdf/1802.07384.pdf" class="pdf" title="symex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
 </tr>
 	<tr>
 	<td>Oct 06, 08</td>
 	<td>Training and querying with Logic</td>  
-	<td><a href="" class="pdf" title="dl2"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/lai21/lai-query-training-logic.pptx" class="pdf" title="dl2"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td><p>DL2<a href="http://proceedings.mlr.press/v97/fischer19a/fischer19a.pdf" class="pdf" title="dl2"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p></td>
 </tr>
 	<tr>
