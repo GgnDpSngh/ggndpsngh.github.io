@@ -109,7 +109,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Oct 13, 15</td>
 	<td>Robust training of neural networks</td>  
-	<td><a href="" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/lai21/lai-robust-training.pptx" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td>
 		<p>IBP<a href="https://arxiv.org/pdf/1810.12715.pdf" class="pdf" title="robust training"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		
