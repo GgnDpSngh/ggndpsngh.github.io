@@ -119,7 +119,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Oct 20, 22</td>
 	<td>Neural network repair</td>  
-	<td><a href="" class="pdf" title="repair"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/lai21/lai-repair.pptx" class="pdf" title="repair"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td>
 		<p>DDNN<a href="https://arxiv.org/pdf/2104.04413.pdf" class="pdf" title="repair"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		</td>
