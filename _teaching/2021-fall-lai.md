@@ -127,7 +127,7 @@ The course will be taught in person. For students preferring to attend remotely,
 	<tr>
 	<td>Oct 27, 29</td>
 	<td>Probabilistic circuits</td>  
-	<td><a href="" class="pdf" title="circuits"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/lai21/lai-pc.pptx" class="pdf" title="circuits"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td><p>PC<a href="http://starai.cs.ucla.edu/papers/ProbCirc20.pdf" class="pdf" title="repair"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
 		</td>
 </tr>
