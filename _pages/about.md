@@ -12,4 +12,4 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 I am looking for PhD students with strong background in both theory and practice to work with me on projects at the intersection of formal logic, machine learning, and systems. If you are interested, please apply to the <a href="https://grad.illinois.edu/admissions/apply">UIUC CS graduate program </a> and send me an <a href="mailto:ggnds@illinois.edu"><i class="fas fa-envelope zoom" aria-hidden="true"></i></a>.
 
-**I am Co-Chairing the <a href="https://2022.splashcon.org/home/sas-2022"> 29th Static Analysis Symposium </a>, one of the best venues for static analysis along with <a href="https://caterinaurban.github.io/"> Caterina Urban</a>. Consider submitting your best work!** 
+**I am Co-Chairing the <a href="https://2022.splashcon.org/home/sas-2022"> 29th Static Analysis Symposium</a>, one of the best venues for static analysis along with <a href="https://caterinaurban.github.io/"> Caterina Urban</a>. Consider submitting your best work!** 
