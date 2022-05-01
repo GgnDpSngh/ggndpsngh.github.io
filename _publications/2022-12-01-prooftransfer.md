@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/oopsla-2022
 date: 2022-12-01
 venue: OOPSLA
-paperurl: ''
-link: ''
+paperurl: 'https://dl.acm.org/doi/10.1145/3527319'
+link: '/files/FANC.pdf'
 citation: Shubham Ugare, Gagandeep Singh, Sasa Misailovic, OOPSLA 2022.
 ---
