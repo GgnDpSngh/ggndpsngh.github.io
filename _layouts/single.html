@@ -36,8 +36,9 @@ layout: default
         
         {% if page.collection == 'teaching' %}
           <p> {{ page.type }}, <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
-          <p> Head TA: <a href="{{ page.head-ta-url }}"> {{ page.head-ta }} </a> Office hours: Wed 12:15-1:15 pm</p>
-          <p> Instructor Office hours: Fri 12:15-1:15 pm </p> 
+          {% if page.lecturer %}
+          <p> Instructors:  {{ page.lecturer }}</p>
+          {% endif %}
           
         {% elsif page.venue and page.date %}
           <p>Published in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
