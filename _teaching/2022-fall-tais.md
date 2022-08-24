@@ -44,7 +44,7 @@ Students should have taken CS173 (or a similar course) and know basic proofs usi
 	<th width="10%">Slides</th>
 	<th width="45%"> Reading material </th>
 <tr> 
-  <td colspan="4"> <hr /> </td>      
+  <td colspan="4"> </td>      
 </tr>
 <tr>
 	<td>Aug 22</td>
