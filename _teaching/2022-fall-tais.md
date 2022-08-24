@@ -48,7 +48,10 @@ Students should have taken CS173 (or a similar course) and know basic proofs usi
 	<td>Aug 22</td>
 	<td>Introduction</td>  
 	<td><a href="/slides/tais2022/intro.pptx" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
-	<td></td>
+	<td>
+		<p>3D-printing of adversarial examples <a href="https://arxiv.org/pdf/1804.10829.pdf" class="pdf" title="robust advex"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		<p>Adversarial Music<a href="https://arxiv.org/pdf/1911.00126.pdf" class="pdf" title="Adv Music"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></p>
+		</td>  
 </tr>
 	
 	
