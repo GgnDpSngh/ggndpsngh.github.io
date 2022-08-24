@@ -57,7 +57,6 @@ Students should have taken CS173 (or a similar course) and know basic proofs usi
   
   
 <h2 id="grading">Grading</h2>
-The grades are determined by:
 <ul>
 	<li> Homeworks (50%): There will be 5 homeworks involving theory and coding during the semester roughly once every two weeks. We will consider the 4 homeworks where you get the highest score for grading. Each graded homework accounts for 12.5% of the grade. The deadline for submitting your solutions to the homeworks will be one week from the date the homework is posted on Piazza. Late submissions will not be accepted. </li>
 	<li>Project (40%): There will be a course project based on the material covered in the class. You can also specify your own project but it must be approved by us.</li>
