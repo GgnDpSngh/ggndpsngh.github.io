@@ -47,7 +47,7 @@ Students should have taken CS173 (or a similar course) and know basic proofs usi
 <tr>
 	<td>Aug 22</td>
 	<td>Introduction</td>  
-	<td><a href="/slides/tais22/intro.pptx" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
+	<td><a href="/slides/tais2022/intro.pptx" class="pdf" title="intro"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a></td>  
 	<td></td>
 </tr>
 	
