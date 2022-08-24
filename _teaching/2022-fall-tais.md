@@ -1,7 +1,7 @@
 ---
 title: Trustworthy AI Systems
 collection: teaching
-type: "Advanced Graduate course"
+type: "Advanced Graduate Course"
 ref: tais2022
 description: Advanced graduate course discussing the latest advances in constructing reliable real-world systems that incorporate ML components
 semester: Fall 2022
