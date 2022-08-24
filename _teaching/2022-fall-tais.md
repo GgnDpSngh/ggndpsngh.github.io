@@ -1,4 +1,3 @@
-
 ---
 title: Trustworthy AI Systems
 collection: teaching
