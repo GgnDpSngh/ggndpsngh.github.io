@@ -57,34 +57,12 @@ Students should have taken CS173 (or a similar course) and know basic proofs usi
   
   
 <h2 id="grading">Grading</h2>
-
-The students will work in a group of 2 or individually on:
+The grades are determined by:
 <ul>
-	<li> a course project, </li>
-	<li> conference-style paper presentation on one of the topics taught in the course towards the end of the semester (see dates above). The students are free to select any paper, but it must be approved by us.</li>
+	<li> Homeworks (50%): There will be 5 homeworks involving theory and coding during the semester roughly once every two weeks. We will consider the 4 homeworks where you get the highest score for grading. Each graded homework accounts for 12.5% of the grade. The deadline for submitting your solutions to the homeworks will be one week from the date the homework is posted on Piazza. Late submissions will not be accepted. </li>
+	<li>Project (40%): There will be a course project based on the material covered in the class. You can also specify your own project but it must be approved by us.</li>
+	<li>Participation (10%): Your attendance for lectures and participation on Piazza will account for 10% of the grades.</li>
 	</ul>
 
-Both project and presentation will make up 50 % of the grade each. 
 
-<h2 id="timeline"> Key Dates </h2>
 
-<table centering border="0" width="100%" cellspacing="0" cellpadding="0">
-
-	<th width="30%">Deadline</th>
-	<th width="70%">Task</th>
-
-<tr>
-	<td>Sep 21</td>
-	<td>Register your group for the project and presentation</td>  
-</tr>
-	<tr>
-	<td>Oct 26</td>
-	<td>Selecting a paper to present</td>  
-</tr>
-	
-	<tr>
-	<td>Nov 10</td>
-	<td>Project submission</td>  
-	
-</tr>
-	</table>
