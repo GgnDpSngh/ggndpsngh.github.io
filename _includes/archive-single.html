@@ -37,7 +37,7 @@
        {% elsif post.collection == 'teaching' %}
         {{ title }} {% if post.link %}
         <a href="{{ post.link }}"><i class="fas fa-chalkboard zoom" aria-hidden="true"></i></a>
-      <p> Head TA: <a href="{{ post.head-ta-url }}"> {{ post.head-ta }} </a></p>
+      
       {% endif %}
       {% if post.paperurl %}
         <a href="{{ post.paperurl }}"><i class="fas fa-fw fa-file-pdf zoom" aria-hidden="true"></i></a>
