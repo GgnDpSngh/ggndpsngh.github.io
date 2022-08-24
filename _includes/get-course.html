@@ -4,7 +4,7 @@
   {% if include.output == "horizontal" %}
   <div class="horizontal-card">
     <div class="card-content">
-      <a class="card-title" href="{{ course.url | relative_url}}">{{ course.title }}</a>
+      <a class="card-title" href="{{ course.url | relative_url}}">{{ course.title }}</a> {{ course.lecturer }}
       <div class="card-subtitle">{{ course.description }}</div>
       <div class="card-extra">{{ course.semester }}</div>
     </div>
