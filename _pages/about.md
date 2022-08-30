@@ -13,3 +13,12 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 I am looking for focused, confident, and ambitious PhD students with strong background in both theory and practice to work on projects at the intersection of formal logic, machine learning, and systems. If you believe you have these qualities and are interested in working with us, please apply to the <a href="https://grad.illinois.edu/admissions/apply">UIUC CS graduate program </a> and send me an <a href="mailto:ggnds@illinois.edu"><i class="fas fa-envelope zoom" aria-hidden="true"></i></a>.
 
 **I am Co-Chairing the <a href="https://2022.splashcon.org/home/sas-2022"> 29th Static Analysis Symposium</a>, one of the best venues for static analysis, along with <a href="https://caterinaurban.github.io/"> Caterina Urban</a>. Consider submitting your best work!** 
+
+<h2> News</h2>
+<ul>
+
+  <li>30 Aug 2022: Congratulations to <a href="https://cmxu.io">Calvin</a> for winning the prestigious <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship"> Qualcomm Innovation Fellowship 2022</a></li>
+  <li>1 Aug 2022: Our proposal <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148583&HistoricalAwards=false">Provably Robust Machine Learning for Next Generation Cellular Networks</a> has been selected for funding under the NSF RINGS program</li>
+
+
+</ul>
