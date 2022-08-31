@@ -17,7 +17,7 @@ I am looking for focused, confident, and ambitious PhD students with strong back
 <h2> News</h2>
 <ul>
 
- <li>30 Aug 2022: Congratulations to <a href="https://cmxu.io">Calvin</a> for winning the prestigious <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship"> Qualcomm Innovation Fellowship 2022</a></li>
+ <li>30 Aug 2022: Congratulations to <a href="https://cmxu.io">Calvin</a> for winning the prestigious <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america"> Qualcomm Innovation Fellowship 2022</a></li>
  <li>1 Aug 2022: Our proposal <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148583&HistoricalAwards=false">Provably Robust Machine Learning for Next Generation Cellular Networks</a> has been selected for funding under the <a href="https://www.nsf.gov/pubs/2021/nsf21581/nsf21581.htm">NSF RINGS program</a></li>
  <li> 1 May 2022:  Our paper on <a href="https://ggndpsngh.github.io/files/shared_certificates.pdf">proof sharing for neural network verification</a>accepted at <a href="http://i-cav.org/2022/"> CAV'22 </a></li> <li> 
  25 Feb 2022:  Our paper on <a href="https://ggndpsngh.github.io/files/FANC.pdf">proof transfer for neural network verification</a>accepted in round 1 of <a href="https://2022.splashcon.org/track/splash-2022-oopsla"> OOPSLA'22 </a></li>
