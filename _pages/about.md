@@ -17,9 +17,9 @@ I am looking for focused, confident, and ambitious PhD students with strong back
 <h2> News</h2>
 <ul>
 
-  <li>30 Aug 2022: Congratulations to <a href="https://cmxu.io">Calvin</a> for winning the prestigious <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship"> Qualcomm Innovation Fellowship 2022</a></li>
-  <li>1 Aug 2022: Our proposal <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148583&HistoricalAwards=false">Provably Robust Machine Learning for Next Generation Cellular Networks</a> has been selected for funding under the NSF RINGS program</li>
-  <li> 1 May 2022:  Our paper on <a href="https://ggndpsngh.github.io/files/shared_certificates.pdf">proof sharing for neural network verification</a> has been accepted at <a href="http://i-cav.org/2022/"> CAV'22 </a></li>
- <li> 20 Jan 2022: Our paper on <a href="https://ggndpsngh.github.io/files/provably_robust_adversarial_ex.pdf">provably robust adversarial example generation</a> is accepted at <a href="https://iclr.cc/Conferences/2022"> ICLR'22</a></li> 
+ <li>30 Aug 2022: Congratulations to <a href="https://cmxu.io">Calvin</a> for winning the prestigious <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship"> Qualcomm Innovation Fellowship 2022</a></li>
+ <li>1 Aug 2022: Our proposal <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148583&HistoricalAwards=false">Provably Robust Machine Learning for Next Generation Cellular Networks</a> has been selected for funding under the <a href="https://www.nsf.gov/pubs/2021/nsf21581/nsf21581.htm">NSF RINGS program</a></li>
+ <li> 1 May 2022:  Our paper on <a href="https://ggndpsngh.github.io/files/shared_certificates.pdf">proof sharing for neural network verification</a> has been accepted at <a href="http://i-cav.org/2022/"> CAV'22 </a></li>
+<li> 20 Jan 2022: Our paper on <a href="https://ggndpsngh.github.io/files/provably_robust_adversarial_ex.pdf">provably robust adversarial example generation</a> is accepted at <a href="https://iclr.cc/Conferences/2022"> ICLR'22</a></li> 
 
 </ul>
