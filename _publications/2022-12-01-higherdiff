@@ -1,0 +1,10 @@
+---
+title:  "A General Construction for Abstract Interpretation of Higher-Order Automatic Differentiation"
+collection: publications
+permalink: /publication/oopsla-higher-2022
+date: 2022-12-01
+venue: OOPSLA
+link: 
+paperurl: '/files/diff_oopsla22.pdf'
+citation: Jacob Laurel, Rem yang, Shubham Ugare, Robert Nagel,  Gagandeep Singh, Sasa Misailovic, OOPSLA 2022.
+---
