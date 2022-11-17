@@ -12,7 +12,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 **For prospective PhD candidates**: please apply to the <a href="https://grad.illinois.edu/admissions/apply">UIUC CS graduate program </a> and mention my name. I will get back to you if there is a good match.
 
-**I am Co-Chairing the <a href="https://2022.splashcon.org/home/sas-2022"> 29th Static Analysis Symposium</a>, one of the best venues for static analysis, along with <a href="https://caterinaurban.github.io/"> Caterina Urban</a>. Consider submitting your best work!** 
+
 
 <h2> News</h2>
 <ul>
