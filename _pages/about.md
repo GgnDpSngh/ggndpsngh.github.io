@@ -16,6 +16,8 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 <h2> News</h2>
 <ul>
+  <li> 9 Dec 2022: Our paper on creating real-world hardwarea attacks on ML-based wireless systems accepted at <a href="https://www.usenix.org/conference/nsdi23">NSDI'23</a>
+  </li>
 <li> 2 Sep 2022: Our papers on verification of GNN-based schedulers and Abstract Interpretation of Higher-Order Automatic Differentiation accepted in round 2 of <a href="https://2022.splashcon.org/track/splash-2022-oopsla"> OOPSLA'22 </a></li>
  <li>30 Aug 2022: Congratulations to <a href="https://cmxu.io">Calvin</a> for winning the prestigious <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america"> Qualcomm Innovation Fellowship 2022</a></li>
  <li>1 Aug 2022: Our proposal <a href="https://www.nsf.gov/awardsearch/showAward?AWD_ID=2148583&HistoricalAwards=false">Provably Robust Machine Learning for Next Generation Cellular Networks</a> has been selected for funding under the <a href="https://www.nsf.gov/pubs/2021/nsf21581/nsf21581.htm">NSF RINGS program</a></li>
