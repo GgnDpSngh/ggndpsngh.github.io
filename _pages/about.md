@@ -16,6 +16,9 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 <h2> News</h2>
 <ul>
+   <li> 20 Jan 2023: Our paper on training neural networks provably robust against geometric perturbations accepted for spotlight presentation at <a href="https://iclr.cc/">ICLR'23</a>
+  </li>
+  
   <li> 9 Dec 2022: Our paper on creating real-world hardware attacks on ML-based wireless systems accepted at <a href="https://www.usenix.org/conference/nsdi23">NSDI'23</a>
   </li>
 <li> 2 Sep 2022: Our papers on verification of GNN-based schedulers and Abstract Interpretation of Higher-Order Automatic Differentiation accepted in round 2 of <a href="https://2022.splashcon.org/track/splash-2022-oopsla"> OOPSLA'22 </a></li>
