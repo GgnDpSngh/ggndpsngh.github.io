@@ -16,6 +16,9 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 <h2> News</h2>
 <ul>
+  <li>
+    3 Feb 2023: Delighted to receive the <a href="https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career"> NSF Career Award</a> for our proposal on building incremental neural network verifiers.
+  </li>
    <li> 20 Jan 2023: Our paper on training neural networks provably robust against geometric perturbations accepted for spotlight presentation at <a href="https://iclr.cc/">ICLR'23</a>
   </li>
   
