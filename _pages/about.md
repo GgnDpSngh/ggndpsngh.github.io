@@ -16,9 +16,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 <h2> News</h2>
 <ul>
-   <li>
-    24 Feb 2023: Our paper on incremental verification of neural networks accepted at <a href="https://pldi23.sigplan.org/"> PLDI'23 </a>
-  </li>
+
   
   <li>
     3 Feb 2023: Delighted to receive the <a href="https://beta.nsf.gov/funding/opportunities/faculty-early-career-development-program-career"> NSF Career Award</a> for our proposal on building incremental neural network verifiers.
