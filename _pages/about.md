@@ -17,7 +17,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 <h2> News</h2>
 <ul>
 <li>
- 24 Feb 2023: One paper conditionally accepted at <a href="https://pldi23.sigplan.org/"> PLDI'23 </a>
+ 4 April 2023: Our paper on incremental verification of neural networks is accepted at <a href="https://pldi23.sigplan.org/"> PLDI'23 </a>
   </li>
   
   <li>
