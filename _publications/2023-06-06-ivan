@@ -1,0 +1,9 @@
+---
+title:  "Incremental Verification of Neural Networks"
+collection: publications
+permalink: /publication/pldi-2023
+date: 2023-06-06
+venue: PLDI
+link: 'https://arxiv.org/pdf/2304.01874.pdf' 
+paperurl: ''
+citation: Shubham Ugare, Debangshu Banerjee, Sasa Misailovic, and Gagandeep Singh, PLDI 2023.
