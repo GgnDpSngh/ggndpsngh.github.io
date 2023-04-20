@@ -16,6 +16,9 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 <h2> News</h2>
 <ul>
+  <li>
+ 19 April 2023: Excited to receive the <a href="https://research.google/outreach/research-scholar-program/"> Google Research Scholar Award </a>
+  </li>
 <li>
  4 April 2023: Our paper on incremental verification of neural networks is accepted at <a href="https://pldi23.sigplan.org/"> PLDI'23 </a>
   </li>
