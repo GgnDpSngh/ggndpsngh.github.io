@@ -31,7 +31,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
   
   <li> 9 Dec 2022: Our paper on creating real-world hardware attacks on ML-based wireless systems accepted at <a href="https://www.usenix.org/conference/nsdi23">NSDI'23</a>
   </li>
-  <li> 9 Nov 2022: Happy to be serving on the <a href="https://awards.acm.org/india-doctoral-dissertation"> ACM India Doctoral Dissertation Award Committee </a> </li>
+  <li> 9 Nov 2022: Honored to be serving on the <a href="https://awards.acm.org/india-doctoral-dissertation"> ACM India Doctoral Dissertation Award Committee </a> </li>
 <li> 2 Sep 2022: Our papers on verification of GNN-based schedulers and Abstract Interpretation of Higher-Order Automatic Differentiation accepted in round 2 of <a href="https://2022.splashcon.org/track/splash-2022-oopsla"> OOPSLA'22 </a></li>
   
  <li>30 Aug 2022: Congratulations to <a href="https://cmxu.io">Calvin</a> for winning the prestigious <a href="https://www.qualcomm.com/research/university-relations/innovation-fellowship/2022-north-america"> Qualcomm Innovation Fellowship 2022</a></li>
