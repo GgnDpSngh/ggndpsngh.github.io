@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/nsdi-2022
 date: 2023-04-18
 venue: NSDI
-link: 
+link: 'https://www.usenix.org/system/files/nsdi23-liu-zikun.pdf'
 paperurl: ''
 citation: Zikun Liu, Changming Xu, Gagandeep Singh, and Deepak Vasisht, NSDI 2023.
 ---
