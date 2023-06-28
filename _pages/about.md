@@ -17,6 +17,9 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 <h2> News</h2>
 <ul>
   <li>
+ 28 June 2023: Our paper on creating reward poising attacks on deep reinforcement learning is accepted at <a href="https://jmlr.org/tmlr/"> TMLR </a>
+  </li>
+  <li>
  19 April 2023: Excited to receive the <a href="https://research.google/outreach/research-scholar-program/"> Google Research Scholar Award </a>
   </li>
 <li>
