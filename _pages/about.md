@@ -17,7 +17,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 <h2> News</h2>
 <ul>
   <li>
- 13 July 2023: Our paper on creating reward poisoning attacks on deep reinforcement learning with is accepted at <a href="https://jmlr.org/tmlr/"> TMLR </a> with featured certification (Oral/Spotlight category at TMLR)
+ 13 July 2023: Our paper on creating reward poisoning attacks on deep reinforcement learning is accepted at <a href="https://jmlr.org/tmlr/"> TMLR </a> with featured certification (Oral/Spotlight category at TMLR)
   </li>
    <li>
  11 July 2023: Our paper on interpreting robust proofs of neural networks won an outstanding paper award at <a href="https://www.ml-verification.com/"> WFVML@ICML'23 </a>
