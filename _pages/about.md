@@ -22,7 +22,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
   
   <li>Static Analysis of Differentiable Programs </li> 
  
-  <li>Trustworthy Machine Learning for Systems</li>
+  <li>Trustworthy Deep Learning for Systems</li>
 </ul>
 
 I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a href="https://acl.inf.ethz.ch/people/markusp/">Prof. Markus Püschel</a> and <a href="https://www.sri.inf.ethz.ch/people/martin"> Prof. Martin Vechev</a>. During my PhD, I designed scalable and precise automated reasoning methods and tools for programs and deep neural networks. I co-received the **ACM SIGPLAN Doctoral Dissertation Award** given annually to the best dissertations in the area of Programming Languages. Before that, I completed a Masters in Computer Science at ETH in 2014 receiving the **ETH Master Medal** and Bachelors in Computer Science and Engineering from IIT Patna in 2012 receiving the **President of India Gold Medal**. 
