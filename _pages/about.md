@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. I also hold an Affiliated Researcher position with VMware Research. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to **construct intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the NSF Career Award, Google Research Scholar Award, and Qualcomm Innovation Fellowship. Some of our current projects (in alphabetical order) are 
+I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. I also hold an Affiliated Researcher position with VMware Research. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to **construct intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the **NSF Career Award**, **Google Research Scholar Award**, and **Qualcomm Innovation Fellowship**. Some of our current projects (in alphabetical order) are 
 <ul>
     <li> Accurate, Efficient, and Provably Robust Neural Networks</li>
   <li>Neural Network Explanations</li>
