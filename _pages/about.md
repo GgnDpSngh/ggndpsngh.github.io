@@ -20,7 +20,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
    <li>Safety of Large Language Models</li> 
   <li>Scalable Neural Network Verification </li> 
   
-  <li>Static Analysis for Differentiable Programs </li> 
+  <li>Static Analysis of Differentiable Programs </li> 
  
   <li>Trustworthy Machine Learning for Systems</li>
 </ul>
