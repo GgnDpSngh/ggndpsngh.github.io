@@ -13,7 +13,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
   <li> Deep Learning for Systems</li>
    <li>Deep Reinforcement Learning </li>
   <li>Federated Learning</li> 
-    <li> Logic-guided Training of Neural Networks</li>
+    <li> Logic-guided Learning</li>
  <li>Machine Learning for Wireless</li>
   <li>Neural Network Explanations</li>
     <li>Neural Network Verification </li> 
