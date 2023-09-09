@@ -10,19 +10,21 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. I also hold an Affiliated Researcher position with VMware Research. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to **construct intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the **NSF Career Award**, **Google Research Scholar Award**, and **Qualcomm Innovation Fellowship**. Some of our current projects (in alphabetical order) are 
 <ul>
-    <li> Accurate, Efficient, and Provably Robust Neural Networks</li>
+  <li> Deep Learning for Systems</li>
+   <li>Deep Reinforcement Learning </li>
+  <li>Federated Learning</li> 
+    <li> Logic-guided Training of Neural Networks</li>
+ <li>Machine Learning for Wireless</li>
   <li>Neural Network Explanations</li>
+    <li>Neural Network Verification </li> 
     <li>NeuroSymbolic Program Analysis</li>
- 
-  <li>Provably Robust Machine Learning for Wireless</li>
-  <li>Robust and Efficient Deep Reinforcement Learning </li> 
-  <li>Robustness against Common Corruptions in Vision</li>
+   <li>Out-of-Distribution Generalization</li>
    <li>Safety of Large Language Models</li> 
-  <li>Scalable Neural Network Verification </li> 
+
   
   <li>Static Analysis of Differentiable Programs </li> 
  
-  <li>Trustworthy Deep Learning for Systems</li>
+ 
 </ul>
 
 I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a href="https://acl.inf.ethz.ch/people/markusp/">Prof. Markus Püschel</a> and <a href="https://www.sri.inf.ethz.ch/people/martin"> Prof. Martin Vechev</a>. During my PhD, I designed scalable and precise automated reasoning methods and tools for programs and deep neural networks. I co-received the **ACM SIGPLAN Doctoral Dissertation Award** given annually to the best dissertations in the area of Programming Languages. Before that, I completed a Masters in Computer Science at ETH in 2014 receiving the **ETH Master Medal** and Bachelors in Computer Science and Engineering from IIT Patna in 2012 receiving the **President of India Gold Medal**. 
