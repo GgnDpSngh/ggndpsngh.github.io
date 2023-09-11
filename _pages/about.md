@@ -12,10 +12,11 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 <ul>
   <li> Deep Learning for Systems</li>
    <li>Deep Reinforcement Learning </li>
+  <li>Explainable AI</li>
   <li>Federated Learning</li> 
     <li> Logic-guided Learning</li>
  <li>Machine Learning for Wireless</li>
-  <li>Explainable AI</li>
+  
     <li>Neural Network Verification </li> 
     <li>NeuroSymbolic Program Analysis</li>
    <li>Out-of-Distribution Generalization</li>
