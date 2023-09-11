@@ -15,7 +15,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
   <li>Federated Learning</li> 
     <li> Logic-guided Learning</li>
  <li>Machine Learning for Wireless</li>
-  <li>Neural Network Explanations</li>
+  <li>Explainable AI</li>
     <li>Neural Network Verification </li> 
     <li>NeuroSymbolic Program Analysis</li>
    <li>Out-of-Distribution Generalization</li>
