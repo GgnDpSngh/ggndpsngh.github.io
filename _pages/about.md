@@ -35,6 +35,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+   <li>
+ 23 Oct 2023: Gave a keynote at <a href="https://conf.researchr.org/details/sas-2023/sas-2023-papers/1/Building-Trust-and-Safety-in-Artificial-Intelligence-with-Abstract-Interpretation"> SAS 2023 </a> on Trustworthy AI
+  </li>
   <li>
  13 July 2023: Our paper on creating reward poisoning attacks on deep reinforcement learning is accepted at <a href="https://jmlr.org/tmlr/"> TMLR </a> with featured certification (Oral/Spotlight category at TMLR)
   </li>
