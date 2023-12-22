@@ -35,6 +35,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+    <li>
+ 20 Dec 2023: Our latest work develops priming attacks to bypass the safety training of open-source LLMs. More details are available at <a href="https://llmpriming.focallab.org/">https://llmpriming.focallab.org/</a>
+  </li>
    <li>
  23 Oct 2023: Gave a keynote at <a href="https://conf.researchr.org/details/sas-2023/sas-2023-papers/1/Building-Trust-and-Safety-in-Artificial-Intelligence-with-Abstract-Interpretation"> SAS 2023 </a> on Trustworthy AI
   </li>
