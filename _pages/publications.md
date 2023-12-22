@@ -10,9 +10,7 @@ author_profile: true
 {% endif %}
 
 {% include base_path %}
-<h2>Preprints</h2>
-<h2>Workshops</h2>
-<h2>Conferences and Journals</h2>
+
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
