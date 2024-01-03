@@ -35,12 +35,19 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+  <li>
+    1 Jan 2024: Our latest work on designing efficient learning algorithm for offline preference based deep reinforcement learning is available on <a href= "https://arxiv.org/pdf/2401.00330.pdf"> Arxiv </a>.
+  </li>
     <li>
  20 Dec 2023: Our latest work develops priming attacks to bypass the safety training of open-source LLMs. More details are available at <a href="https://llmpriming.focallab.org/">https://llmpriming.focallab.org/</a>
+  </li>
+  <li>
+    Nov 3 2023: Excited to receive a grant from the Amazon Illinois Center on Artificial Intelligence for Interactive Conversational Experiences on <a href="https://www.amazon.science/news-and-features/amazon-and-uiuc-announce-inaugural-slate-of-funded-research-projects"> Fairness Verification of LLMs </a>.
   </li>
    <li>
  23 Oct 2023: Gave a keynote at <a href="https://conf.researchr.org/details/sas-2023/sas-2023-papers/1/Building-Trust-and-Safety-in-Artificial-Intelligence-with-Abstract-Interpretation"> SAS 2023 </a> on Trustworthy AI
   </li>
+  
   <li>
  13 July 2023: Our paper on creating reward poisoning attacks on deep reinforcement learning is accepted at <a href="https://jmlr.org/tmlr/"> TMLR </a> with featured certification (Oral/Spotlight category at TMLR)
   </li>
