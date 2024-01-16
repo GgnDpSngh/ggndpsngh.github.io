@@ -4,12 +4,12 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
-<h2> Preprints</h2>
+<h1> Preprints</h1>
 <p>
 <b>Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Learning </b> 
   <a href= "https://arxiv.org/abs/2305.10681"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></p>
 <p>Yinglun Xu, Gagandeep Singh, Arxiv 2023</p>
-<h2> Peer Reviewed at Conferences and Journals</h2>
+<h1> Peer Reviewed at Conferences and Journals</h1>
 {% if author.googlescholar %}
   You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
 {% endif %}
