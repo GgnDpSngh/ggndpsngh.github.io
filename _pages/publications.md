@@ -26,6 +26,21 @@ CoMEt: x86 Cost Model Explanation Framework
   <a href= "https://arxiv.org/abs/2302.06836"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Alex Renda, Charith Mendis, Gagandeep Singh, XAIA@NeurIPS 2023.</p>
 
+<h3>
+Toward Continuous Verification of DNNs
+  <a href= "https://shubhamugare.github.io/assets/pdf/ICML_workshop.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Shubham Ugare, Debangshu Banerjee, Tarun Suresh, Sasa Misailovic, Gagandeep Singh, WFVML@ICML 2023.</p>
+
+<h3>
+Property-Driven Evaluation of RL-Controllers in Self-Driving Datacenters 
+  <a href= "https://ggndpsngh.github.io/files/DMML.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Arnav Chakravarthy, Nina Narodytska, Asmitha Rathis, Marius Vilcu, Mahmood Sharif, Gagandeep Singh, DMML@NeurIPS 2022.</p>
+
+
+<h3>
+Physically-Constrained Adversarial Attacks on Brain-Machine Interfaces 
+  <a href= "https://ggndpsngh.github.io/files/TSRML.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Xiaying Wang, Rodolfo Octavio Siller Quintanilla, Michael Hersche, Luca Benini, Gagandeep Singh, TSRML@NeurIPS 2022.</p>
 
 <h2> Conferences and Journals</h2>
 {% if author.googlescholar %}
