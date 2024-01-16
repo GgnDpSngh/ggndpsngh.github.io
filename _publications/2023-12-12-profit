@@ -1,10 +1,10 @@
 ---
-title:  "Interpreting Robustness Proofs of Deep Neural Networks"
+title:  "Dissecting Neural Network Robustness Proofs"
 collection: publications
 permalink: /publication/supfex-2023
 date: 2024-05-11
 venue: Arxiv
 paperurl: '/files/SuPFEx.pdf'
 link: 'https://arxiv.org/pdf/2301.13845v1.pdf'
-citation: Debangshu Banerjee, Avaljot Singh, Gagandeep Singh, WFVML@ICML 2023 (Outstanding Paper).
+citation: Debangshu Banerjee, Avaljot Singh, Gagandeep Singh, ICLR 2024.
 ---
