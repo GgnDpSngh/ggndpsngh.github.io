@@ -36,6 +36,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
   <li>
+    16 Jan 2024: 3 papers accepted at <a href="https://openreview.net/group?id=ICLR.cc/2024/Conference"> ICLR'24 </a>
+  </li>
+  <li>
     1 Jan 2024: Our latest work on designing efficient learning algorithm for offline preference based deep reinforcement learning is available on <a href= "https://arxiv.org/pdf/2401.00330.pdf"> Arxiv </a>.
   </li>
     <li>
