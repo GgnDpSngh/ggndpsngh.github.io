@@ -21,6 +21,12 @@ Robust Universal Adversarial Perturbations
 
 <h2> Workshops</h2>
 
+
+<h3>
+Abstract Interpretation for Automatic Differentiation
+  <a href= ""><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Jacob Laurel, Siyuan Brant Qian, Gagandeep Singh, Sasa Misailovic, LAFI@POPL 2024.</p>
+
 <h3>
 CoMEt: x86 Cost Model Explanation Framework
   <a href= "https://arxiv.org/abs/2302.06836"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
