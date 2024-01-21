@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 <h2> Preprints</h2>
+<h3>Efficient Two-Phase Offline Deep Reinforcement Learning from Preference Feedback  
+  <a href= "https://arxiv.org/abs/2401.00330"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Yinglun Xu, and Gagandeep Singh, Arxiv 2024.</p>
+
+
 <h3>Bypassing the Safety Training of Open-Source LLMs with Priming Attacks  
   <a href= "https://arxiv.org/abs/2312.12321"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Jason Vega, Isha Chaudhary, Changming Xu, and Gagandeep Singh, Arxiv 2024.</p>
