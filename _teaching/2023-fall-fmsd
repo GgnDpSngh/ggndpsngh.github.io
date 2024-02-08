@@ -1,0 +1,13 @@
+---
+title: Formal Software Development Methods
+collection: teaching
+type: "Advanced Graduate Course"
+ref: fmsd2024
+description: Mathematical models, languages, and methods for software specification, development, and verification.
+semester: Spring 2024
+lecturer: Gagandeep Singh
+date: 2024-01-22 
+venue: "Tue, Thurs 12:30-1:45 pm, 1310 Digital Computer Lab"
+link: https://cs477.netlify.app/
+credits: 3 for undergaduates, 4 for graduates
+---
