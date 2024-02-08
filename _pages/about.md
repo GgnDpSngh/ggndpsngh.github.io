@@ -31,6 +31,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 **For prospective PhD candidates**: Please apply to the <a href="https://grad.illinois.edu/admissions/apply">UIUC CS graduate program </a> and mention my name. I will get back to you if there is a good match.
 
+**We are currently looking for CA's for our Spring 2024 CS 477 course Formal Software Development Methods**, if you ae interested, please email me.
 
 
 <h2> News</h2>
