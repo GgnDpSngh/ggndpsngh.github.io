@@ -19,10 +19,6 @@ author_profile: true
 <p>Yinglun Xu, Gagandeep Singh, Arxiv 2024.</p>
 
 
-<h3>Bypassing the Safety Training of Open-Source LLMs with Priming Attacks  
-  <a href= "https://arxiv.org/abs/2312.12321"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Jason Vega, Isha Chaudhary, Changming Xu, Gagandeep Singh, Arxiv 2024.</p>
-
 <h3>
 Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Learning 
   <a href= "https://arxiv.org/abs/2305.10681"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
@@ -33,8 +29,19 @@ Robust Universal Adversarial Perturbations
   <a href= "https://arxiv.org/pdf/2206.10858.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Changming Xu, Gagandeep Singh, Arxiv 2023.</p>
 
-<h2> Workshops</h2>
+<h2> Workshops and Short Papers</h2>
 
+<h3>Bypassing the Safety Training of Open-Source LLMs with Priming Attacks  
+  <a href= "https://arxiv.org/abs/2312.12321"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Jason Vega, Isha Chaudhary, Changming Xu, Gagandeep Singh, Tiny Papers@ICLR 2024.</p>
+
+<h3>Exploiting Time Channel Vulnerability of Learned Bloom Filters 
+  <a href= ""><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Harman Singh Farwah, Gagandeep Singh, Cheng Tan, Tiny Papers@ICLR 2024.</p>
+
+<h3>Is Watermarking LLM-Generated Code Robust?  
+  <a href= ""><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Tarun Suresh, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, Tiny Papers@ICLR 2024.</p>
 
 <h3>
 Abstract Interpretation for Automatic Differentiation
