@@ -36,6 +36,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+   <li>
+    23 Feb 2024: 1 paper accepted at <a href="https://mlsys.org/"> MLSys'24 </a>
+  </li>
   <li>
     16 Jan 2024: 3 papers accepted at <a href="https://openreview.net/group?id=ICLR.cc/2024/Conference"> ICLR'24 </a>
   </li>
