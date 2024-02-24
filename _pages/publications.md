@@ -49,11 +49,6 @@ Abstract Interpretation for Automatic Differentiation
 <p>Jacob Laurel, Siyuan Brant Qian, Gagandeep Singh, Sasa Misailovic, LAFI@POPL 2024.</p>
 
 <h3>
-CoMEt: x86 Cost Model Explanation Framework
-  <a href= "https://arxiv.org/abs/2302.06836"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Isha Chaudhary, Alex Renda, Charith Mendis, Gagandeep Singh, XAIA@NeurIPS 2023.</p>
-
-<h3>
 Toward Continuous Verification of DNNs
   <a href= "https://shubhamugare.github.io/assets/pdf/ICML_workshop.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Shubham Ugare, Debangshu Banerjee, Tarun Suresh, Sasa Misailovic, Gagandeep Singh, WFVML@ICML 2023.</p>
