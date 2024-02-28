@@ -36,6 +36,12 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+    <li>
+    27 Feb 2024: Work on quantifying knowledge comprehension in LLMs release on <a href="https://arxiv.org/abs/2402.15929"> Arxiv </a>
+  </li>
+   <li>
+    26 Feb 2024: 1 paper accepted at <a href="https://pldi24.sigplan.org/"> PLDI'24 </a>
+  </li>
    <li>
     23 Feb 2024: 1 paper accepted at <a href="https://mlsys.org/"> MLSys'24 </a>
   </li>
