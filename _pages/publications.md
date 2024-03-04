@@ -6,10 +6,6 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
-<h3>QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs 
-  <a href= "https://arxiv.org/abs/2402.15929"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Isha Chaudhary, Vedaant Jain, Gagandeep Singh, Arxiv 2024.</p>
-
 <h3>Reward Poisoning Attack Against Offline Reinforcement Learning  
   <a href= "https://arxiv.org/abs/2402.09695"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yinglun Xu, Rohan Gumaste, Gagandeep Singh, Arxiv 2024.</p>
@@ -34,6 +30,10 @@ Robust Universal Adversarial Perturbations
 <p>Changming Xu, Gagandeep Singh, Arxiv 2023.</p>
 
 <h2> Workshops and Short Papers</h2>
+
+<h3>QuaCer-C: Quantitative Certification of Knowledge Comprehension in LLMs 
+  <a href= "https://arxiv.org/abs/2402.15929"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Isha Chaudhary, Vedaant Jain, Gagandeep Singh, SeT LLM@ICLR 2024.</p>
 
 <h3>Bypassing the Safety Training of Open-Source LLMs with Priming Attacks  
   <a href= "https://arxiv.org/abs/2312.12321"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
