@@ -9,5 +9,5 @@ projects: numerical-analysis
 awards:
 link: https://dl.acm.org/doi/10.1145/3158143
 paperurl: /files/popl2018.pdf
-citation: Gagandeep Singh, Markus Püschel, Martin Vechev, POPL 2018.
+citation: Gagandeep Singh, Markus Püschel, Martin Vechev, <b>POPL 2018</b>.
 ---
