@@ -36,6 +36,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
    <li>
+    27 March 2024: We have released a high-level DSL called <a href="https://arxiv.org/pdf/2403.18729.pdf"> ConstraintFlow </a>  to accelerate the development of state-of-the-art Neural Network Certifiers. 
+  </li>
+   <li>
     5 March 2024: We have released a general framework for grammar-guided code generation with LLMs. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/syncode"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2403.01632"> Arxiv </a>
   </li>
     <li>
