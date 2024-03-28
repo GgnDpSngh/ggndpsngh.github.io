@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 <h2> Preprints</h2>
+<h3> ConstraintFlow: A DSL for Specification and Verification of Neural Network Analyses 
+  <a href= "https://arxiv.org/pdf/2403.18729.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Avaljot Singh, Yasmin Sarita, Charith Mendis, Gagandeep Singh, Arxiv 2024.</p>
+
 
 <h3>Improving LLM Code Generation with Grammar Augmentation  
   <a href= "https://arxiv.org/abs/2403.01632"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
