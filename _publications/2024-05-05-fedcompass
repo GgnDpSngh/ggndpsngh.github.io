@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/fedcompass-2024
 date: 2024-05-11
 venue: Arxiv
-paperurl: ''
-link: 'https://arxiv.org/pdf/2309.14675.pdf'
+paperurl: '/files/fedcompass.pdf'
+link: 'https://openreview.net/forum?id=msXxrttLOi'
 citation: Zilinghan Li, Pranshu Chaturvedi, Shilan He, Han Chen, Gagandeep Singh, Volodymyr Kindratenko, Eliu A Huerta, Kibaek Kim, Ravi Madduri, <b>ICLR 2024</b>.
 ---
