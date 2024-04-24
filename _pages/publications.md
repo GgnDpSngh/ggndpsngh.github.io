@@ -56,7 +56,7 @@ Robust Universal Adversarial Perturbations
 <p>Harman Singh Farwah, Gagandeep Singh, Cheng Tan, Tiny Papers@ICLR 2024.</p>
 
 <h3>Is Watermarking LLM-Generated Code Robust?  
-  <a href= "https://arxiv.org/pdf/2403.17983.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <a href= "https://openreview.net/pdf?id=8PhI1PzSYY"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Tarun Suresh, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, Tiny Papers@ICLR 2024.</p>
 
 <h3>
