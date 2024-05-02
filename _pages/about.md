@@ -35,6 +35,12 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+     <li>
+    1 May 2024: 2 papers accepted at <a href="https://icml.cc/Conferences/2024"> ICML'24 </a>
+  </li>
+   <li>
+    31 March 2024: 1 paper accepted at <a href="https://pldi24.sigplan.org/"> PLDI'24 </a>
+  </li>
    <li>
     27 March 2024: We have released a high-level DSL called <a href="https://arxiv.org/pdf/2403.18729.pdf"> ConstraintFlow </a>  to accelerate the development of state-of-the-art Neural Network Certifiers. 
   </li>
@@ -43,9 +49,6 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
   </li>
     <li>
     27 Feb 2024: Work on quantifying knowledge comprehension in LLMs release on <a href="https://arxiv.org/abs/2402.15929"> Arxiv </a>
-  </li>
-   <li>
-    26 Feb 2024: 1 paper conditionally accepted at <a href="https://pldi24.sigplan.org/"> PLDI'24 </a>
   </li>
    <li>
     23 Feb 2024: 1 paper accepted at <a href="https://mlsys.org/"> MLSys'24 </a>
