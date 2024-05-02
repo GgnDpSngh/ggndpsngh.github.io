@@ -36,10 +36,6 @@ Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Lea
   <a href= "https://arxiv.org/abs/2305.10681"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yinglun Xu, Gagandeep Singh, Arxiv 2023.</p>
 
-<h3>
-Robust Universal Adversarial Perturbations 
-  <a href= "https://arxiv.org/pdf/2206.10858.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Changming Xu, Gagandeep Singh, Arxiv 2023.</p>
 
 <h2> Workshops and Short Papers</h2>
 
