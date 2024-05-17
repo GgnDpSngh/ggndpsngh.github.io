@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 <h2> Preprints</h2>
+
+<h3> Cross-Input Certified Training for Universal Perturbations
+  <a href= "https://arxiv.org/abs/2405.09176"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <p> Changming Xu, Gagandeep Singh Arxiv 2024.</p>
+
+
 <h3> Syndicate: Synergistic Synthesis of Ranking Function and Invariants for Termination Analysis
   <a href= "https://arxiv.org/pdf/2404.05951.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p> Yasmin Sarita, Avaljot Singh, Shaurya Gomber, Gagandeep Singh, Mahesh Vishwanathan, Arxiv 2024.</p>
