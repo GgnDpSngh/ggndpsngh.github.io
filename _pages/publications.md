@@ -6,6 +6,11 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3> Quantitative Certification of Bias in Large Language Models
+  <a href="https://arxiv.org/abs/2405.18780"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <p> 
+Isha Chaudhary, Qian Hu, Manoj Kumar, Morteza Ziyadi, Rahul Gupta, Gagandeep Singh, Arxiv 2024.</p>
+  
 <h3> Cross-Input Certified Training for Universal Perturbations
   <a href= "https://arxiv.org/abs/2405.09176"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
   <p> Changming Xu, Gagandeep Singh, Arxiv 2024.</p>
