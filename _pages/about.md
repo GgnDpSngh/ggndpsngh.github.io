@@ -35,6 +35,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+  <li>
+    30 May 2024: We have released the first framework for certifying bias in the output of LLMs. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/QuaCer-B"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2405.18780"> Arxiv </a>
+  </li>
      <li>
     1 May 2024: 2 papers accepted at <a href="https://icml.cc/Conferences/2024"> ICML'24 </a>
   </li>
