@@ -36,7 +36,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
   <li>
-    30 May 2024: We have released the first framework for certifying bias in the output of LLMs. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/QuaCer-B"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2405.18780"> Arxiv </a>
+    30 May 2024: We have released the **first framework** for certifying bias in the output of LLMs. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/QuaCer-B"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2405.18780"> Arxiv </a>
   </li>
      <li>
     1 May 2024: 2 papers accepted at <a href="https://icml.cc/Conferences/2024"> ICML'24 </a>
@@ -45,13 +45,13 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
     31 March 2024: 1 paper accepted at <a href="https://pldi24.sigplan.org/"> PLDI'24 </a>
   </li>
    <li>
-    27 March 2024: We have released a high-level DSL called <a href="https://arxiv.org/pdf/2403.18729.pdf"> ConstraintFlow </a>  to accelerate the development of state-of-the-art Neural Network Certifiers. 
+    27 March 2024: We have released **the first** DSL called <a href="https://arxiv.org/pdf/2403.18729.pdf"> ConstraintFlow </a>  for Neural Network Certification. 
   </li>
    <li>
     5 March 2024: We have released a general framework for grammar-guided code generation with LLMs. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/syncode"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2403.01632"> Arxiv </a>
   </li>
     <li>
-    27 Feb 2024: Work on quantifying knowledge comprehension in LLMs release on <a href="https://arxiv.org/abs/2402.15929"> Arxiv </a>
+    27 Feb 2024: We released the **first framework** on quantifying knowledge comprehension in LLMs on <a href="https://arxiv.org/abs/2402.15929"> Arxiv </a>
   </li>
    <li>
     23 Feb 2024: 1 paper accepted at <a href="https://mlsys.org/"> MLSys'24 </a>
@@ -60,7 +60,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
     16 Jan 2024: 3 papers accepted at <a href="https://openreview.net/group?id=ICLR.cc/2024/Conference"> ICLR'24 </a>
   </li>
   <li>
-    1 Jan 2024: Our latest work on designing efficient learning algorithm for offline preference based deep reinforcement learning is available on <a href= "https://arxiv.org/pdf/2401.00330.pdf"> Arxiv </a>.
+    1 Jan 2024: Our latest work on designing an efficient learning algorithm for offline preference-based deep reinforcement learning is available on <a href= "https://arxiv.org/pdf/2401.00330.pdf"> Arxiv </a>.
   </li>
     <li>
  20 Dec 2023: Our latest work develops priming attacks to bypass the safety training of open-source LLMs. More details are available at <a href="https://llmpriming.focallab.org/">https://llmpriming.focallab.org/</a>
