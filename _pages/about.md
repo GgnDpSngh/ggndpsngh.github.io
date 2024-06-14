@@ -36,6 +36,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
   <li>
+    14 June 2024: Checkout the exciting Master thesis work by Shaurya Gomber on  <a href="https://ggndpsngh.github.io/files/NAI.pdf"> Neural Abstract Interpretation </a>
+  </li>
+  <li>
     30 May 2024: We have released the <b> first framework </b> for certifying bias in the output of LLMs. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/QuaCer-B"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2405.18780"> Arxiv </a>
   </li>
      <li>
