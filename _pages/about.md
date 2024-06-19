@@ -36,7 +36,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
    <li>
-    19 June 2024: We have released the <a href="https://arxiv.org/pdf/2406.10445v1"> ORL framework </a> to bridge the gap between preference and reward-based offline RL. 
+    19 June 2024: We have released the <a href="https://arxiv.org/pdf/2406.10445v1"> ORL framework </a> for preference-based offline RL which forms the basis of RLHF. 
   </li>
   <li>
     14 June 2024: Checkout the exciting Master thesis work by Shaurya Gomber on  <a href="https://ggndpsngh.github.io/files/NAI.pdf"> Neural Abstract Interpretation </a>
