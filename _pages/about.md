@@ -36,7 +36,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
     <li>
-    1 July 2024: Our work on building the first certified training method against UAP attack is conditionally accepted at <a href="https://eccv.ecva.net/"> ECCV'24</a>. 
+    1 July 2024: Our work on building the <b> first certified training method against UAP attack </b> is conditionally accepted at <a href="https://eccv.ecva.net/"> ECCV'24</a>. 
   </li>
    <li>
     19 June 2024: We have released the <a href="https://arxiv.org/pdf/2406.10445v1"> ORL framework </a> for preference-based offline RL, which forms the basis of RLHF. 
@@ -45,7 +45,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
     14 June 2024: Checkout the exciting Master thesis work by Shaurya Gomber on  <a href="https://ggndpsngh.github.io/files/NAI.pdf"> Neural Abstract Interpretation </a>
   </li>
   <li>
-    30 May 2024: We have released the <b> first framework </b> for certifying bias in the output of LLMs. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/QuaCer-B"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2405.18780"> Arxiv </a>
+    30 May 2024: We have released the <b> first framework  for certifying bias in the output of LLMs </b>. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/QuaCer-B"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2405.18780"> Arxiv </a>
   </li>
      <li>
     1 May 2024: 2 papers accepted at <a href="https://icml.cc/Conferences/2024"> ICML'24 </a>
@@ -54,13 +54,13 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
     31 March 2024: 1 paper accepted at <a href="https://pldi24.sigplan.org/"> PLDI'24 </a>
   </li>
    <li>
-    27 March 2024: We have released <b> the first </b> DSL called <a href="https://arxiv.org/pdf/2403.18729.pdf"> ConstraintFlow </a>  for Neural Network Certification. 
+    27 March 2024: We have released <b> the first DSL called <a href="https://arxiv.org/pdf/2403.18729.pdf"> ConstraintFlow </a> </b> for Neural Network Certification. 
   </li>
    <li>
     5 March 2024: We have released a general framework for grammar-guided code generation with LLMs. The code is avaialble on <a href="https://github.com/uiuc-focal-lab/syncode"> Github </a>. A preprint of the work is available on <a href="https://arxiv.org/abs/2403.01632"> Arxiv </a>
   </li>
     <li>
-    27 Feb 2024: We released the <b> first framework </b> on quantifying knowledge comprehension in LLMs on <a href="https://arxiv.org/abs/2402.15929"> Arxiv </a>
+    27 Feb 2024: We released the <b> first framework on quantifying knowledge comprehension in LLMs </b> on <a href="https://arxiv.org/abs/2402.15929"> Arxiv </a>
   </li>
    <li>
     23 Feb 2024: 1 paper accepted at <a href="https://mlsys.org/"> MLSys'24 </a>
