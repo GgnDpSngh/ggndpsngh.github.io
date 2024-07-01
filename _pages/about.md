@@ -35,6 +35,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+    <li>
+    1 July 2024: Our work on building the first certified training method against UAP attack is conditionally accepted at <a href="https://eccv.ecva.net/"></a>. 
+  </li>
    <li>
     19 June 2024: We have released the <a href="https://arxiv.org/pdf/2406.10445v1"> ORL framework </a> for preference-based offline RL, which forms the basis of RLHF. 
   </li>
