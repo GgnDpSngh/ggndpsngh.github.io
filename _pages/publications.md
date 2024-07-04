@@ -14,9 +14,6 @@ author_profile: true
   <a href="https://arxiv.org/abs/2405.18780"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
   <p> 
 Isha Chaudhary, Qian Hu, Manoj Kumar, Morteza Ziyadi, Rahul Gupta, Gagandeep Singh, Arxiv 2024.</p>
-  
-
-  <p> Changming Xu, Gagandeep Singh, Arxiv 2024.</p>
 
 
 <h3> Syndicate: Synergistic Synthesis of Ranking Function and Invariants for Termination Analysis
