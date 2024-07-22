@@ -25,7 +25,7 @@ Isha Chaudhary, Qian Hu, Manoj Kumar, Morteza Ziyadi, Rahul Gupta, Gagandeep Sin
 <p>Avaljot Singh, Yasmin Sarita, Charith Mendis, Gagandeep Singh, Arxiv 2024.</p>
 
 
-<h3>Improving LLM Code Generation with Grammar Augmentation  
+<h3>SynCode: LLM Generation with Grammar Augmentation 
   <a href= "https://arxiv.org/abs/2403.01632"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Shubham Ugare, Tarun Suresh, Hangoo Kang, Sasa Misailovic, Gagandeep Singh, Arxiv 2024.</p>
 
