@@ -49,7 +49,7 @@ Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Lea
 
 
 <h2> Workshops and Short Papers</h2>
-<h3>Scalable relational verification and training for deep neural networks 
+<h3>Scalable Relational Verification and Training for Deep Neural Networks 
   <a href= "https://ggndpsngh.github.io/files/SAIV2024.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
   <p>Debangshu Banerjee, Changming Xu, Gagandeep Singh, SAIV@CAV 2024.</p>
 
