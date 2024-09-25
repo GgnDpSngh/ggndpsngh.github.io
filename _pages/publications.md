@@ -33,9 +33,6 @@ Isha Chaudhary, Qian Hu, Manoj Kumar, Morteza Ziyadi, Rahul Gupta, Gagandeep Sin
   <a href= "https://arxiv.org/abs/2402.09695"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yinglun Xu, Rohan Gumaste, Gagandeep Singh, Arxiv 2024.</p>
 
-<h3>RAMP: Boosting Adversarial Robustness Against Multiple Lp Perturbations  
-  <a href= "https://arxiv.org/abs/2402.06827"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Enyi Jiang, Gagandeep Singh, Arxiv 2024.</p>
 
 <h3>Efficient Two-Phase Offline Deep Reinforcement Learning from Preference Feedback  
   <a href= "https://arxiv.org/abs/2401.00330"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
