@@ -36,10 +36,10 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
     <li>
-    26 Sep 2024: 1 paper </b> accepted at <a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks"> NeurIPS'24 Datasets and Benchmarks Track</a>. 
+    26 Sep 2024: 1 paper accepted at <a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks"> NeurIPS'24 Datasets and Benchmarks Track</a>. 
   </li>
   <li>
-    25 Sep 2024: Two papers </b> accepted at <a href="https://neurips.cc/"> NeurIPS'24</a>. 
+    25 Sep 2024: Two papers  accepted at <a href="https://neurips.cc/"> NeurIPS'24</a>. 
   </li>
     <li>
     1 July 2024: Our work on building the <b> first certified training method against UAP attack </b> is conditionally accepted at <a href="https://eccv.ecva.net/"> ECCV'24</a>. 
