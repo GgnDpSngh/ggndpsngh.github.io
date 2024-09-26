@@ -35,6 +35,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+    <li>
+    26 Sep 2024: 1 paper </b> accepted at <a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks"> NeurIPS'24 Datasets and Benchmarks Track</a>. 
+  </li>
   <li>
     25 Sep 2024: Two papers </b> accepted at <a href="https://neurips.cc/"> NeurIPS'24</a>. 
   </li>
