@@ -6,8 +6,17 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>Towards Universal Certified Robustness with Multi-Norm Training
+  <a href= "https://arxiv.org/abs/2410.03000"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Enyi Jiang, Gagandeep Singh, Arxiv 2024.</p>
+
+<h3>IterGen: Iterative Structured LLM Generation
+  <a href= "https://arxiv.org/abs/2410.07295"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Shubham Ugare, Rohan Gumaste, Tarun Suresh, Gagandeep Singh, Sasa Misailovic, Arxiv 2024.</p>
+
+
 <h3>Optimal Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning  
-  <a href= "https://arxiv.org/pdf/2406.10445v1"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <a href= "https://arxiv.org/abs/2406.10445"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yinglun Xu, David Zhu, Rohan Gumaste, Gagandeep Singh, Arxiv 2024.</p>
 
 <h3> Quantitative Certification of Bias in Large Language Models
@@ -20,9 +29,6 @@ Isha Chaudhary, Qian Hu, Manoj Kumar, Morteza Ziyadi, Rahul Gupta, Gagandeep Sin
   <a href= "https://arxiv.org/pdf/2404.05951.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p> Yasmin Sarita, Avaljot Singh, Shaurya Gomber, Gagandeep Singh, Mahesh Vishwanathan, Arxiv 2024.</p>
 
-<h3> ConstraintFlow: A DSL for Specification and Verification of Neural Network Analyses 
-  <a href= "https://arxiv.org/pdf/2403.18729.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Avaljot Singh, Yasmin Sarita, Charith Mendis, Gagandeep Singh, Arxiv 2024.</p>
 
 
 <h3>SynCode: LLM Generation with Grammar Augmentation 
