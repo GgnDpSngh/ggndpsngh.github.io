@@ -5,6 +5,10 @@ permalink: /publications/
 author_profile: true
 ---
 <h2> Preprints</h2>
+<h3>Decoding Intelligence: A Framework for Certifying Knowledge Comprehension in LLMs
+  <a href= "https://arxiv.org/abs/2402.15929"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Isha Chaudhary, Vedaant V. Jain, Gagandeep Singh, Arxiv 2024.</p>
+
 <h3>Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment
   <a href= "https://arxiv.org/abs/2411.02785"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Jason Vega, Junsheng Huang, Gaokai Zhang, Hangoo Kang, Minjia Zhang, Gagandeep Singh, Arxiv 2024.</p>
