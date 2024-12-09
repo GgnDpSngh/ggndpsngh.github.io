@@ -31,7 +31,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 **For prospective PhD candidates**: Please apply to the <a href="https://grad.illinois.edu/admissions/apply">UIUC CS graduate program </a> and mention my name. I will get back to you if there is a good match.
 
-**For UIUC Master's Students Looking for a paid RA**: We currently do not have any openings.
+**For UIUC students looking for a paid RA**: We currently do not have any openings.
 
 
 <h2> News</h2>
