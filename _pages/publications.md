@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 <h2> Preprints</h2>
+
+<h3>Specification Generation for Neural Networks in Systems
+  <a href= "https://arxiv.org/abs/2412.03028"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh, Arxiv 2024.</p>
+
 <h3>Decoding Intelligence: A Framework for Certifying Knowledge Comprehension in LLMs
   <a href= "https://arxiv.org/abs/2402.15929"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Vedaant V. Jain, Gagandeep Singh, Arxiv 2024.</p>
