@@ -36,6 +36,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+  <li>
+    18 Dec 2024: 1 paper accepted at <a href="https://2025.splashcon.org/track/OOPSLA"> OOPSLA'25</a>. 
+  </li>
     <li>
     26 Sep 2024: 1 paper accepted at <a href="https://neurips.cc/Conferences/2024/CallForDatasetsBenchmarks"> NeurIPS'24 Datasets and Benchmarks Track</a>. 
   </li>
