@@ -37,6 +37,12 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
   <li>
+    22 Jan 2025: 3 papers accepted at <a href="https://iclr.cc/">ICLR'25</a>
+  </li>
+    <li>
+    16 Jan 2025: Congratulations to <a href="https://sgomber.github.io/"> Shaurya Gomber</a> for winning the <a href="https://siebelschool.illinois.edu/about/awards/graduate-fellowships-awards/david-j-kuck-outstanding-thesis-awards">  David J. Kuck Outstanding Master’s Thesis Award</a> for his work on <a href="https://www.ideals.illinois.edu/items/131524">Neual Abstract Interpretation</a>. 
+  </li>
+  <li>
     18 Dec 2024: 1 paper accepted at <a href="https://2025.splashcon.org/track/OOPSLA"> OOPSLA'25</a>. 
   </li>
     <li>
