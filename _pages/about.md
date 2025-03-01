@@ -8,22 +8,25 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC) where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the **NSF Career Award**, **Google Research Scholar Award**, and **Qualcomm Innovation Fellowship**. Some of the topics (in alphabetical order) that we currently work on are 
+I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and theoretically principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the **NSF Career Award**, **Google Research Scholar Award**, and **Qualcomm Innovation Fellowship**. Some of the topics (in no particular order) that we currently work on are 
 <ul>
-  <li> Deep Learning for Systems</li>
-   <li>Reinforcement Learning from Human Feedback</li>
-  <li>Explainable AI</li>
-  <li>Federated Learning</li> 
-    <li> Logic-guided Learning</li>
- <li>Machine Learning for Wireless</li>
-    <li>Neural Network Verification </li> 
-    <li>NeuroSymbolic Program Analysis</li>
-   <li>Out-of-Distribution Generalization</li>
-   <li>Safety of Large Language Models</li> 
-
+  <li> Accurate and Efficient Neural Networks for Computer Systems with Formal Guarantees</li>
+ <li>Robust Machine Learning for Wireless</li>
   
-  <li>Static Analysis of Differentiable Programs </li> 
- 
+    <li>Explainable AI</li>
+    <li>Neural Network Verification  </li> 
+  <li>Training with Logical Constraints  </li> 
+
+
+    <li>Reinforcement Learning from Human Feedback</li>
+   <li>Formal Methods for LLMs</li>
+   <li>LLMs for Mathematical Reasoning</li> 
+   <li>Theoretical Understanding of LLMs</li>
+  <li> Securing Agentic AI </li>
+
+      <li>NeuroSymbolic Program Analysis</li>
+  <li>Differentiable Abstract Interpretation </li> 
+ <li>Static Analysis of Differentiable Programs </li> 
  
 </ul>
 
