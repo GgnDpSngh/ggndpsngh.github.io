@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and theoretically principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the **NSF Career Award**, **Google Research Scholar Award**, and **Qualcomm Innovation Fellowship**. Some of the topics (in no particular order) that we currently work on are 
 <ul>
-  <li> Accurate and Efficient Neural Networks for Computer Systems with Formal Guarantees</li>
+  <li> Neural Networks for Computer Systems with Formal Guarantees</li>
  <li>Robust Machine Learning for Wireless</li>
   
     <li>Explainable AI</li>
