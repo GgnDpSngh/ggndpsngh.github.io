@@ -18,7 +18,8 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
   <li>Training with Logical Constraints  </li> 
 
 
-    <li>Reinforcement Learning from Human Feedback</li>
+<li> Robust and Efficient Reinforcement Learning </li>
+    <li>Learning from Human Preferences</li>
    <li>Formal Methods for LLMs</li>
    <li>LLMs for Mathematical Reasoning</li> 
    <li>Theoretical Understanding of LLMs</li>
