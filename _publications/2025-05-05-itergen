@@ -1,10 +1,10 @@
 ---
-title:  "IterGen: Iterative Structured LLM Generation"
+title:  "IterGen: Iterative Semantic-aware Structured LLM Generation with Backtracking"
 collection: publications
 permalink: /publication/iclr-2025
 date: 2025-05-05
 venue: ICLR
-paperurl: ''
-link: ''
+paperurl: '/files/itergen.pdf'
+link: 'https://openreview.net/forum?id=ac93gRzxxV'
 citation: Shubham Ugare, Rohan Gumaste, Tarun Suresh, Gagandeep Singh, Sasa Misailovic, <b>ICLR 2025</b>.
 ---
