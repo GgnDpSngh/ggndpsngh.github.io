@@ -6,10 +6,6 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
-<h3>CRANE: Reasoning with Constrained LLM Generation
-  <a href= "https://arxiv.org/abs/2502.09061"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Debangshu Banerjee, Tarun Suresh, Shubham Ugare, Sasa Misailovic, Gagandeep Singh, Arxiv 2025.</p>
-
 <h3>Specification Generation for Neural Networks in Systems
   <a href= "https://arxiv.org/abs/2412.03028"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh, Arxiv 2024.</p>
