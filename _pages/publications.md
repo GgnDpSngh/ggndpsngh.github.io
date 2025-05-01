@@ -65,9 +65,6 @@ Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Lea
 
 <h2> Workshops and Short Papers</h2>
 
-<h3>Preserving Reasoning Capabilities Under Constrained LLM Generation 
-  <a href= "https://openreview.net/forum?id=RX3GIOkGHrm"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-  <p> Debangshu Banerjee, Tarun Suresh, Shubham Ugare, Sasa Misailovic, Gagandeep Singh, VerifAI@ICLR 2025.</p>
 
 <h3>Neural Abstract Interpretation 
   <a href= "https://openreview.net/forum?id=WTyyhWhp4m"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
