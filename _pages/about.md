@@ -41,6 +41,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
   <li>
+    1 May 2025: 1 paper accepted at <a href="https://icml.cc/">ICML'25</a>.
+  </li>
+  <li>
     22 Jan 2025: 3 papers accepted at <a href="https://iclr.cc/">ICLR'25</a>.
   </li>
     <li>
