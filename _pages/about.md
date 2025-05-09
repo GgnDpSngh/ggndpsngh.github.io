@@ -40,6 +40,9 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 
 <h2> News</h2>
 <ul>
+   <li>
+    9 May 2025: <a href="https://arxiv.org/abs/2403.01632">Syncode </a> accepted at <a href="https://jmlr.org/tmlr/">TMLR'25</a>.
+  </li>
   <li>
     1 May 2025: 1 paper accepted at <a href="https://icml.cc/">ICML'25</a>.
   </li>
