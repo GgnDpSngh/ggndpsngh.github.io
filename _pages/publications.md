@@ -6,6 +6,29 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>Learning a Pessimistic Reward Model in RLHF
+  <a href= "https://arxiv.org/abs/2505.20556"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Yinglun Xu, Hangoo Kang, Tarun Suresh, Yuxuan Wan, Gagandeep Singh, Arxiv 2025.</p>
+
+<h3>DINGO: Constrained Inference for Diffusion LLMs
+  <a href= "https://arxiv.org/abs/2505.23061"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Tarun Suresh, Debangshu Banerjee, Shubham Ugare, Sasa Misailovic, Gagandeep Singh, Arxiv 2025.</p>
+
+
+<h3>TRAP: Targeted Redirecting of Agentic Preferences
+  <a href= "https://arxiv.org/abs/2505.23518"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Hangoo Kang, Jehyeok Yeon, Gagandeep Singh, Arxiv 2025.</p>
+
+
+<h3>Misaligning Reasoning with Answers--A Framework for Assessing LLM CoT Robustness
+  <a href= "https://arxiv.org/abs/2505.17406"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Enyi Jiang, Changming Xu, Nischay Singh, Gagandeep Singh, Arxiv 2025.</p>
+
+
+<h3>Improving Assembly Code Performance with Large Language Models via Reinforcement Learning
+  <a href= "https://arxiv.org/abs/2505.11480"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Anjiang Wei, Tarun Suresh, Huanmi Tan, Yinglun Xu, Gagandeep Singh, Ke Wang, Alex Aiken, Arxiv 2025.</p>
+
 <h3>Specification Generation for Neural Networks in Systems
   <a href= "https://arxiv.org/abs/2412.03028"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh, Arxiv 2024.</p>
