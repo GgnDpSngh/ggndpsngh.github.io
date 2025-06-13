@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 <h2> Preprints</h2>
+<h3>Data Shifts Hurt CoT: A Theoretical Study
+  <a href= "https://arxiv.org/abs/2506.10647"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Lang Yin, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
+
+
 
 <h3>Learning a Pessimistic Reward Model in RLHF
   <a href= "https://arxiv.org/abs/2505.20556"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
