@@ -92,6 +92,9 @@ Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Lea
 
 
 <h2> Workshops and Short Papers</h2>
+<h3>Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8 
+  <a href= "https://openreview.net/forum?id=j2hH02UVch"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <p>Preston Firestone, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, TokShop@ICML 2025.</p>
 
 
 <h3>Neural Abstract Interpretation 
