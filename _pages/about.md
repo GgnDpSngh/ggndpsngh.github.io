@@ -43,7 +43,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
 <h2> News</h2>
 <ul>
   <li>
-    Monograph explaining how the classical framework of Abstract Interpretation can be leveraged for AI safety published in <a href="https://www.nowpublishers.com/PGL">Foundations and Trends in Programming Languages</a>
+    A monograph on applying the classical framework of Abstract Interpretation for AI safety, published in <a href="https://www.nowpublishers.com/PGL">Foundations and Trends in Programming Languages</a>
   </li>
    <li>
     19 June 2025: Preprints of our latest work on trustworthy LLMs are available at <a href="https://ggndpsngh.github.io/publications/"> Publications </a> page. These include the <b>first</b> ompression-aware certified training framework, a novel theoretical study of CoT reasoning, a new efficient <b>RLHF algorithm  that does not require KL regularization </b>, efficient adversarial attacks on agentic systems, the <b>first</b>algorithm for constrained generation with diffusion LLMs, and new methods that reveal misalignment between CoT reasoning and the final answer. 
