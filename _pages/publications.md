@@ -9,20 +9,10 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2506.11992"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Changming Xu, Gagandeep Singh, Arxiv 2025.</p>
 
-
-<h3>Data Shifts Hurt CoT: A Theoretical Study
-  <a href= "https://arxiv.org/abs/2506.10647"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Lang Yin, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
-
-
-
 <h3>Learning a Pessimistic Reward Model in RLHF
   <a href= "https://arxiv.org/abs/2505.20556"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yinglun Xu, Hangoo Kang, Tarun Suresh, Yuxuan Wan, Gagandeep Singh, Arxiv 2025.</p>
 
-<h3>DINGO: Constrained Inference for Diffusion LLMs
-  <a href= "https://arxiv.org/abs/2505.23061"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Tarun Suresh, Debangshu Banerjee, Shubham Ugare, Sasa Misailovic, Gagandeep Singh, Arxiv 2025.</p>
 
 
 <h3>TRAP: Targeted Redirecting of Agentic Preferences
@@ -39,9 +29,6 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2505.11480"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Anjiang Wei, Tarun Suresh, Huanmi Tan, Yinglun Xu, Gagandeep Singh, Ke Wang, Alex Aiken, Arxiv 2025.</p>
 
-<h3>Specification Generation for Neural Networks in Systems
-  <a href= "https://arxiv.org/abs/2412.03028"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh, Arxiv 2024.</p>
 
 <h3>Decoding Intelligence: A Framework for Certifying Knowledge Comprehension in LLMs
   <a href= "https://arxiv.org/abs/2402.15929"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
@@ -92,9 +79,18 @@ Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Lea
 
 
 <h2> Workshops and Short Papers</h2>
-<h3>Byte-level Tokenizers Unavoidably Enable LLMs to Generate Ill-formed UTF-8 
-  <a href= "https://openreview.net/forum?id=j2hH02UVch"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-  <p>Preston Firestone, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, TokShop@ICML 2025.</p>
+
+<h3>DINGO: Constrained Inference for Diffusion LLMs
+  <a href= "https://arxiv.org/abs/2505.23061"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Tarun Suresh, Debangshu Banerjee, Shubham Ugare, Sasa Misailovic, Gagandeep Singh, R2-FM@ICML 2025.</p>
+
+<h3>Data Shifts Hurt CoT: A Theoretical Study
+  <a href= "https://arxiv.org/abs/2506.10647"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Lang Yin, Debangshu Banerjee, Gagandeep Singh, R2-FM@ICML 2025.</p>
+
+<h3>Specification Generation for Neural Networks in Systems
+  <a href= "https://arxiv.org/abs/2412.03028"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh, ML4Wireless@ICML 2025.</p>
 
 
 <h3>Neural Abstract Interpretation 
