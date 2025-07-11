@@ -80,6 +80,11 @@ Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Lea
 
 <h2> Workshops and Short Papers</h2>
 
+<h3>Position: Formal Methods are the Principled Foundation of Safe AI
+  <a href= "https://openreview.net/forum?id=7V5CDSsjB7"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Gagandeep Singh, Deepika Chawla TAIG@ICML 2025.</p>
+
+
 <h3>DINGO: Constrained Inference for Diffusion LLMs
   <a href= "https://arxiv.org/abs/2505.23061"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Tarun Suresh, Debangshu Banerjee, Shubham Ugare, Sasa Misailovic, Gagandeep Singh, R2-FM@ICML 2025.</p>
