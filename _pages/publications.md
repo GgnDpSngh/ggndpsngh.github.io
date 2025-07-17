@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 <h2> Preprints</h2>
+<h3>Universal Synthesis of Differentiably Tunable Numerical Abstract Transformers
+  <a href= "https://www.arxiv.org/abs/2507.11827"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Shaurya Gomber, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
+
+
 <h3>Compression Aware Certified Training
   <a href= "https://arxiv.org/abs/2506.11992"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Changming Xu, Gagandeep Singh, Arxiv 2025.</p>
