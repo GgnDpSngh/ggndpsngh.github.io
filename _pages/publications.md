@@ -5,6 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 <h2> Preprints</h2>
+
+<h3>A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications
+  <a href= "https://arxiv.org/pdf/2507.20055"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Avaljot Singh, Yasmin Sarita Chandini, Aditya Mishra, Ishaan Goyal, Gagandeep Singh, Charith Mendis Arxiv 2025.</p>
+
+
 <h3>Universal Synthesis of Differentiably Tunable Numerical Abstract Transformers
   <a href= "https://www.arxiv.org/abs/2507.11827"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Shaurya Gomber, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
