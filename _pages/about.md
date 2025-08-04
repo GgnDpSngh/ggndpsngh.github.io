@@ -35,7 +35,7 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
 
 I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a href="https://acl.inf.ethz.ch/people/markusp/">Prof. Markus Püschel</a> and <a href="https://www.sri.inf.ethz.ch/people/martin"> Prof. Martin Vechev</a>. During my PhD, I designed scalable and precise automated reasoning methods and tools for programs and deep neural networks. I co-received the **ACM SIGPLAN Doctoral Dissertation Award** given annually to the best dissertations in the area of Programming Languages. Before that, I completed a Masters in Computer Science at ETH in 2014 receiving the **ETH Master Medal** and Bachelors in Computer Science and Engineering from IIT Patna in 2012 receiving the **President of India Gold Medal**. 
 
-**For prospective PhD candidates**: Please apply to the <a href="https://grad.illinois.edu/admissions/apply">UIUC CS graduate program </a> and mention my name. I will get back to you if there is a good match.
+**For prospective PhD candidates**: Please apply to the <a href="https://grad.illinois.edu/admissions/apply">UIUC CS graduate program </a> and mention my name. We are looking to hire at least one to start in Fall'26. Students interested in the intersection of AI, Social Sciences (e.g., Economics), and Policy Making will be preferred. I will get back to you if there is a good match.
 
 **For UIUC students looking for a paid RA**: We currently do not have any openings.
 
