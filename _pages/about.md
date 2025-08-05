@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and theoretically principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the **NSF Career Award**, **Google Research Scholar Award**, and **Qualcomm Innovation Fellowship**. Some of the topics (in no particular order) that we currently work on are 
+I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and theoretically principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the **NSF Career Award**, **Amazon Research Awards**, **Google Research Scholar Award**, **Qualcomm Innovation Fellowship**, and **Bloomberg  Infrastructure & Security Research Ph.D. Fellowship**. Some of the topics (in no particular order) that we currently work on are 
 <ul>
    <li>Formal Methods for LLMs</li>
   <li> Robust and Efficient Reinforcement Learning </li>
@@ -48,6 +48,7 @@ I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a hre
    <li>
     19 June 2025: Preprints of our latest work on trustworthy LLMs are available at <a href="https://ggndpsngh.github.io/publications/"> Publications </a> page. These include the <b>first</b> ompression-aware certified training framework, a novel theoretical study of CoT reasoning, a new efficient <b>RLHF algorithm  that does not require KL regularization </b>, efficient adversarial attacks on agentic systems, the <b>first</b>algorithm for constrained generation with diffusion LLMs, and new methods that reveal misalignment between CoT reasoning and the final answer. 
   </li>
+
   <li>
     9 May 2025: <a href="https://arxiv.org/abs/2403.01632">Syncode </a> accepted at <a href="https://jmlr.org/tmlr/">TMLR'25</a>.
   </li>
