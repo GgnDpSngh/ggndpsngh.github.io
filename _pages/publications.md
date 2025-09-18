@@ -26,9 +26,6 @@ author_profile: true
 
 
 
-<h3>TRAP: Targeted Redirecting of Agentic Preferences
-  <a href= "https://arxiv.org/abs/2505.23518"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Hangoo Kang, Jehyeok Yeon, Gagandeep Singh, Arxiv 2025.</p>
 
 
 <h3>Misaligning Reasoning with Answers--A Framework for Assessing LLM CoT Robustness
@@ -95,10 +92,6 @@ Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Lea
   <a href= "https://openreview.net/forum?id=7V5CDSsjB7"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Gagandeep Singh, Deepika Chawla, TAIG@ICML 2025.</p>
 
-
-<h3>DINGO: Constrained Inference for Diffusion LLMs
-  <a href= "https://arxiv.org/abs/2505.23061"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Tarun Suresh, Debangshu Banerjee, Shubham Ugare, Sasa Misailovic, Gagandeep Singh, R2-FM@ICML 2025.</p>
 
 <h3>Data Shifts Hurt CoT: A Theoretical Study
   <a href= "https://arxiv.org/abs/2506.10647"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
