@@ -20,9 +20,7 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2506.11992"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Changming Xu, Gagandeep Singh, Arxiv 2025.</p>
 
-<h3>Learning a Pessimistic Reward Model in RLHF
-  <a href= "https://arxiv.org/abs/2505.20556"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Yinglun Xu, Hangoo Kang, Tarun Suresh, Yuxuan Wan, Gagandeep Singh, Arxiv 2025.</p>
+
 
 
 
@@ -33,9 +31,7 @@ author_profile: true
 <p>Enyi Jiang, Changming Xu, Nischay Singh, Gagandeep Singh, Arxiv 2025.</p>
 
 
-<h3>Improving Assembly Code Performance with Large Language Models via Reinforcement Learning
-  <a href= "https://arxiv.org/abs/2505.11480"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Anjiang Wei, Tarun Suresh, Huanmi Tan, Yinglun Xu, Gagandeep Singh, Ke Wang, Alex Aiken, Arxiv 2025.</p>
+
 
 
 <h3>Decoding Intelligence: A Framework for Certifying Knowledge Comprehension in LLMs
@@ -87,6 +83,14 @@ Black-Box Targeted Reward Poisoning Attack Against Online Deep Reinforcement Lea
 
 
 <h2> Workshops and Short Papers</h2>
+
+<h3>Learning a Pessimistic Reward Model in RLHF
+  <a href= "https://arxiv.org/abs/2505.20556"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Yinglun Xu, Hangoo Kang, Tarun Suresh, Yuxuan Wan, Gagandeep Singh, ARLET@NeurIPS 2025.</p>
+
+<h3>Improving Assembly Code Performance with Large Language Models via Reinforcement Learning
+  <a href= "https://arxiv.org/abs/2505.11480"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Anjiang Wei, Tarun Suresh, Huanmi Tan, Yinglun Xu, Gagandeep Singh, Ke Wang, Alex Aiken, DL4C@NeurIPS 2025.</p>
 
 <h3>Position: Formal Methods are the Principled Foundation of Safe AI
   <a href= "https://openreview.net/forum?id=7V5CDSsjB7"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
