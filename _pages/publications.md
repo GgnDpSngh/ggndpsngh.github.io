@@ -71,9 +71,6 @@ author_profile: true
 <p>Yinglun Xu, Rohan Gumaste, Gagandeep Singh, Arxiv 2024.</p>
 
 
-<h3>Efficient Two-Phase Offline Deep Reinforcement Learning from Preference Feedback  
-  <a href= "https://arxiv.org/abs/2401.00330"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Yinglun Xu, Gagandeep Singh, Arxiv 2024.</p>
 
 
 <h3>
