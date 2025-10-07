@@ -10,6 +10,10 @@ author_profile: true
   <a href= "https://www.arxiv.org/pdf/2510.03969"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Chengxiao Wang, Isha Chaudhary, Qian Hu, Weitong Ruan, Rahul Gupta, Gagandeep Singh, Arxiv 2025.</p>
 
+<h3>Quantifying Distributional Robustness of Agentic Tool-Selection
+  <a href= "https://arxiv.org/abs/2510.03992"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p> Jehyeok Yeon, Isha Chaudhary, Gagandeep Singh, Arxiv 2025.</p>
+
 <h3>A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications
   <a href= "https://arxiv.org/pdf/2507.20055"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Avaljot Singh, Yasmin Sarita Chandini, Aditya Mishra, Ishaan Goyal, Gagandeep Singh, Charith Mendis, Arxiv 2025.</p>
