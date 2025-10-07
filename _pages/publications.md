@@ -6,6 +6,10 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>Quantifying Risks in Multi-Turn Conversation with Large Language Models
+  <a href= "https://www.arxiv.org/pdf/2510.03969"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Chengxiao Wang, Isha Chaudhary, Qian Hu, Weitong Ruan, Rahul Gupta, Gagandeep Singh, Arxiv 2025.</p>
+
 <h3>A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications
   <a href= "https://arxiv.org/pdf/2507.20055"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Avaljot Singh, Yasmin Sarita Chandini, Aditya Mishra, Ishaan Goyal, Gagandeep Singh, Charith Mendis, Arxiv 2025.</p>
