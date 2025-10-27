@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and theoretically principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group has received the **NSF Career Award**, **Multiple Amazon Research Awards**, **Google Research Scholar Award**, **Qualcomm Innovation Fellowship**, and **Bloomberg  Infrastructure & Security Research Ph.D. Fellowship**. Some of the topics (in no particular order) that we currently work on are 
+I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and theoretically principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group is sponsored by **NSF**, **Amazon**, **Google**, **Qualcomm**, **Bloomberg** and **Open Philanthropy**. Some of the topics (in no particular order) that we currently work on are 
 <ul>
    <li>Formal Methods for LLMs</li>
   <li> Robust and Efficient Reinforcement Learning </li>
-    <li>Learning from Human Preferences</li>
+    <li>Learning from Preference Data</li>
   
    <li>LLMs for Mathematical Reasoning</li> 
    <li>Theoretical Understanding of LLMs</li>
@@ -23,13 +23,8 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
     <li>Explainable AI</li>
     <li>Neural Network Verification  </li> 
   <li>Training with Logical Constraints  </li> 
-
-
-
-
       <li>NeuroSymbolic Program Analysis</li>
   <li>Numerical Abstract Interpretation </li> 
- <li>Static Analysis of Differentiable Programs </li> 
  
 </ul>
 
