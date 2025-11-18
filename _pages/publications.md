@@ -8,7 +8,7 @@ author_profile: true
 
 <h3>Cost-Driven Synthesis of Sound Abstract Interpreters
   <a href= "https://arxiv.org/abs/2511.13663"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>CQiuhan Gu, Avaljot Singh, Gagandeep Singh, Arxiv 2025.</p>
+<p>Qiuhan Gu, Avaljot Singh, Gagandeep Singh, Arxiv 2025.</p>
 
 <h3>Quantifying Risks in Multi-Turn Conversation with Large Language Models
   <a href= "https://www.arxiv.org/pdf/2510.03969"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
