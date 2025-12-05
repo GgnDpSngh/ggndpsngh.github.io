@@ -6,6 +6,11 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>Matching Ranks Over Probability Yields Truly Deep Safety Alignment
+  <a href= "https://jason-vega.github.io/papers/presto.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Jason Vega, Gagandeep Singh, 2025.</p>
+
+
 <h3>Lumos: Let there be Language Model System Certification
   <a href= "https://arxiv.org/abs/2512.02966"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Vedaant Jain, Avaljot Singh, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh, Arxiv 2025.</p>
