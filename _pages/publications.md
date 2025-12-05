@@ -6,6 +6,10 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>BEAVER: An Efficient Deterministic LLM Verifier
+  <a href= "/files/BEAVER.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Tarun Suresh, Nalin Wadhwa, Debangshu Banerjee, Gagandeep Singh, 2025.</p>
+
 <h3>Matching Ranks Over Probability Yields Truly Deep Safety Alignment
   <a href= "https://jason-vega.github.io/papers/presto.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Jason Vega, Gagandeep Singh, 2025.</p>
