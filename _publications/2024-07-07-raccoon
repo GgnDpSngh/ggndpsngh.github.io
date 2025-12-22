@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/icml-2024
 date: 2024-07-07
 venue: ICML
-paperurl: ''
+paperurl: 'https://openreview.net/pdf?id=HOG80Yk4Gw'
 link: 'https://arxiv.org/abs/2405.10143'
 citation: Debangshu Banerjee, Gagandeep Singh, <b>ICML 2024</b>.
 ---
