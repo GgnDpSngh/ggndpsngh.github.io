@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/reward-2023
 date: 2023-07-13
 venue: Arxiv
-paperurl: '/files/reward.pdf'
-link: 'https://openreview.net/forum?id=25G63lDHV2&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)'
+paperurl: 'https://openreview.net/forum?id=25G63lDHV2&referrer=%5BTMLR%5D(%2Fgroup%3Fid%3DTMLR)'
+link: '/files/reward.pdf'
 citation: Yinglun Xu, Qi Zeng, Gagandeep Singh, <b>TMLR 2023</b> (Featured Certification).
 ---
