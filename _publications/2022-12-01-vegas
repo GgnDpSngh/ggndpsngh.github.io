@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/vegas-2022
 date: 2022-12-01
 venue: OOPSLA
-link: 
-paperurl: '/files/vegas.pdf'
+link: '/files/vegas.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3563325'
 citation: Haoze Wu, Clark Barrett, Mahmood Sharif, Nina Narodytska,  Gagandeep Singh, <b>OOPSLA 2022</b>.
 ---
