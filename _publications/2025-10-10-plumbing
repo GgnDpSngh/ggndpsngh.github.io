@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/colm-2025
 date: 2025-10-10
 venue: COLM
-paperurl: ''
+paperurl: 'https://arxiv.org/abs/2511.05578'
 link: 'https://openreview.net/forum?id=j2hH02UVch'
 citation: Preston Firestone, Shubham Ugare, Gagandeep Singh, Sasa Misailovic <b>COLM 2025</b>, also at TokShop@ICML 2025.
 ---
