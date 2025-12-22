@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/oopsla-higher-2022
 date: 2022-12-01
 venue: OOPSLA
-link: 
-paperurl: '/files/oopsla-higher.pdf'
+link: '/files/oopsla-higher.pdf'
+paperurl: 'https://dl.acm.org/doi/10.1145/3563324'
 citation: Jacob Laurel, Rem yang, Shubham Ugare, Robert Nagel,  Gagandeep Singh, Sasa Misailovic, <b>OOPSLA 2022</b>.
 ---
