@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/neurips-2024
 date: 2024-12-12
 venue: NeurIPS
-paperurl: ''
+paperurl: 'https://openreview.net/pdf?id=mhjRudcHcB'
 link: ''
 citation: Shuyi Lin, Haoyu He, Tianhao Wei, Kaidi Xu, Huan Zhang, Gagandeep Singh, Changliu Liu, Cheng Tan, <b>NeurIPS 2024 Datasets and Benchmarks Track</b>.
 ---
