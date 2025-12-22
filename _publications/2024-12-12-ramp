@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/neurips-2024
 date: 2024-12-12
 venue: NeurIPS
-paperurl: ''
+paperurl: 'https://proceedings.neurips.cc/paper_files/paper/2024/file/4d5ce4a7ebf588834db127965cdb5ccb-Paper-Conference.pdf'
 link: 'https://arxiv.org/abs/2402.06827'
 citation: Enyi Jiang, Gagandeep Singh, <b>NeurIPS 2024</b>.
 ---
