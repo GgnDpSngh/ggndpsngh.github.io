@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/cgt-2022
 date: 2023-05-01
 venue: ICLR'23
-paperurl: '/files/CGT.pdf'
-link: 'https://arxiv.org/pdf/2207.11177.pdf'
+paperurl: 'https://openreview.net/pdf?id=ThXqBsRI-cY'
+link: '/files/CGT.pdf'
 citation: Rem Yang, Jacob Laurel, Sasa Misailovic, Gagandeep Singh, <b>ICLR 2023 </b> (Spotlight).
 ---
