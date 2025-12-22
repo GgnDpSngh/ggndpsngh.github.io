@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/passado-2023
 date: 2023-06-28
 venue: OOPSLA
-link: 
-paperurl: ''
+link: 'https://misailo.cs.illinois.edu/papers/pasado-oopsla23.pdf'
+paperurl: 'https://dl.acm.org/doi/abs/10.1145/3622867'
 citation: Jacob Laurel, Siyuan Brant Qian, Gagandeep Singh, Sasa Misailovic, <b>OOPSLA 2023</b>.
 ---
