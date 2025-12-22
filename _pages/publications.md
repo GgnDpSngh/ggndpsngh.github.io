@@ -86,11 +86,6 @@ author_profile: true
 <p>Yinglun Xu, David Zhu, Rohan Gumaste, Gagandeep Singh, Arxiv 2024.</p>
 
 
-<h3> Syndicate: Synergistic Synthesis of Ranking Function and Invariants for Termination Analysis
-  <a href= "https://arxiv.org/pdf/2404.05951.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p> Yasmin Sarita, Avaljot Singh, Shaurya Gomber, Gagandeep Singh, Mahesh Vishwanathan, Arxiv 2024.</p>
-
-
 <h3>Reward Poisoning Attack Against Offline Reinforcement Learning  
   <a href= "https://arxiv.org/abs/2402.09695"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yinglun Xu, Rohan Gumaste, Gagandeep Singh, Arxiv 2024.</p>
