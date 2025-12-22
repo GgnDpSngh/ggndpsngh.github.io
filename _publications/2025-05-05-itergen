@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/iclr-2025
 date: 2025-05-05
 venue: ICLR
-paperurl: '/files/itergen.pdf'
-link: 'https://openreview.net/forum?id=ac93gRzxxV'
+paperurl: 'https://openreview.net/forum?id=ac93gRzxxV'
+link: '/files/itergen.pdf'
 citation: Shubham Ugare, Rohan Gumaste, Tarun Suresh, Gagandeep Singh, Sasa Misailovic, <b>ICLR 2025</b>.
 ---
