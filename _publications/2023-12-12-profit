@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/supfex-2023
 date: 2024-05-11
 venue: Arxiv
-paperurl: '/files/profit.pdf'
-link: 'https://openreview.net/forum?id=Ev10F9TWML'
+paperurl: 'https://openreview.net/forum?id=Ev10F9TWML'
+link: '/files/profit.pdf'
 citation: Debangshu Banerjee, Avaljot Singh, Gagandeep Singh, <b>ICLR 2024</b>, also at WFVML@ICML 2023 (Outstanding paper).
 ---
