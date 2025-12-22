@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/iclr-2025
 date: 2025-05-05
 venue: ICLR
-paperurl: '/files/LLMCertB.pdf'
-link: 'https://openreview.net/forum?id=HQHnhVQznF'
+paperurl: 'https://openreview.net/forum?id=HQHnhVQznF'
+link: '/files/LLMCertB.pdf'
 citation: Isha Chaudhary, Qian Hu, Manoj Kumar, Morteza Ziyadi, Rahul Gupta, Gagandeep Singh, <b>ICLR 2025</b>.
 ---
