@@ -6,13 +6,17 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>Enforcing Temporal Constraints for LLM Agents
+  <a href= "/files/AgentC.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Adharsh Kamath, Sishen Zhang, Calvin Xu, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, Arxiv 2025.</p>
+
 <h3>BEAVER: An Efficient Deterministic LLM Verifier
   <a href= "/files/BEAVER.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Tarun Suresh, Nalin Wadhwa, Debangshu Banerjee, Gagandeep Singh, 2025.</p>
+<p>Tarun Suresh, Nalin Wadhwa, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
 
 <h3>Matching Ranks Over Probability Yields Truly Deep Safety Alignment
   <a href= "https://jason-vega.github.io/papers/presto.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Jason Vega, Gagandeep Singh, 2025.</p>
+<p>Jason Vega, Gagandeep Singh, Arxiv 2025.</p>
 
 
 <h3>Lumos: Let there be Language Model System Certification
