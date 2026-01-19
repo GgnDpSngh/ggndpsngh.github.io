@@ -6,6 +6,10 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+
+<p style="color: white;">LLMs Cannot Taste Quantum Curry. Gagandeep Singh, Arxiv 2025.</p>
+
+
 <h3>Enforcing Temporal Constraints for LLM Agents
   <a href= "/files/AgentC.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Adharsh Kamath, Sishen Zhang, Calvin Xu, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, Arxiv 2025.</p>
