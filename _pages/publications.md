@@ -7,7 +7,7 @@ author_profile: true
 <h2> Preprints</h2>
 
 
-<p style="color: white;">LLMs Cannot Taste Quantum Curry. Gagandeep Singh, Arxiv 2025.</p>
+<p style="color: white;">LLMs Cannot Taste Quantum Curry in BlockChain. Gagandeep Singh, Arxiv 2025.</p>
 
 
 <h3>Enforcing Temporal Constraints for LLM Agents
