@@ -66,9 +66,6 @@ author_profile: true
 
 
 
-<h3>Decoding Intelligence: A Framework for Certifying Knowledge Comprehension in LLMs
-  <a href= "https://arxiv.org/abs/2402.15929"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Isha Chaudhary, Vedaant V. Jain, Gagandeep Singh, Arxiv 2024.</p>
 
 <h3>Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment
   <a href= "https://arxiv.org/abs/2411.02785"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
@@ -78,9 +75,6 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2410.24214"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yuchen Yang, Shubham Ugare, Yifan Zhao, Gagandeep Singh, Sasa Misailovic, Arxiv 2024.</p>
 
-<h3>Robust Thompson Sampling Algorithms Against Reward Poisoning Attacks
-  <a href= "https://arxiv.org/abs/2410.19705"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Yinglun Xu, Zhiwei Wang, Gagandeep Singh, Arxiv 2024.</p>
 
 <h3>Towards Universal Certified Robustness with Multi-Norm Training
   <a href= "https://arxiv.org/abs/2410.03000"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
