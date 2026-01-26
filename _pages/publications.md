@@ -113,7 +113,7 @@ author_profile: true
 
 <h3>Specification Generation for Neural Networks in Systems
   <a href= "https://arxiv.org/abs/2412.03028"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh, ML4Wireless@ICML 2025.</p>
+<p>Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh, ML4Wireless@ICML 2025, ICSE Posters 2026.</p>
 
 
 <h3>Neural Abstract Interpretation 
