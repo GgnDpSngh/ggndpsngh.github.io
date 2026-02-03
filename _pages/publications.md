@@ -6,6 +6,9 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>Risks Create a Jagged Frontier of LLM Productivity Gains Across Computer Occupations
+  <a href= "/files/jagged.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Deepika Chawla, Gagandeep Singh, Elham Khorasani Buxton, Meicen Sun, Lav R. Varshney, Jeremy Riel, Craig De Voto </p>
 
 
 
