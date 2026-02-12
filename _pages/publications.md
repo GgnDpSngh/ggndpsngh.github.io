@@ -6,6 +6,10 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>Unified Operational Formalism for LLM-Based Theorem-Proving Systems 
+  <a href= "/files/maestro.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Avaljot Singh, Shaurya Gomber, Yasmin Sarita, Jose Meseguer, Gagandeep Singh </p>
+
 <h3>Risks Create a Jagged Frontier of LLM Productivity Gains Across Computer Occupations
   <a href= "/files/jagged.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Deepika Chawla, Gagandeep Singh, Elham Khorasani Buxton, Meicen Sun, Lav R. Varshney, Jeremy Riel, Craig De Voto </p>
