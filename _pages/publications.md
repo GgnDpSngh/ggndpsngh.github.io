@@ -6,15 +6,15 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
-<h3>Unified Operational Formalism for LLM-Based Theorem-Proving Systems 
-  <a href= "/files/Maestro.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Avaljot Singh, Shaurya Gomber, Yasmin Sarita, Jose Meseguer, Gagandeep Singh </p>
+
 
 <h3>Risks Create a Jagged Frontier of LLM Productivity Gains Across Computer Occupations
   <a href= "/files/jagged.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Deepika Chawla, Gagandeep Singh, Elham Khorasani Buxton, Meicen Sun, Lav R. Varshney, Jeremy Riel, Craig De Voto </p>
 
-
+<h3>Formal Synthesis of Certifiably Robust Neural Lyapunov-Barrier Certificates
+  <a href= "https://arxiv.org/pdf/2602.05311"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Chengxiao Wang, Haoze Wu, Gagandeep Singh, Arxiv 2026.</p>
 
 <h3>Enforcing Temporal Constraints for LLM Agents
   <a href= "/files/AgentC.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
@@ -24,23 +24,23 @@ author_profile: true
   <a href= "/files/BEAVER.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Tarun Suresh, Nalin Wadhwa, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
 
+<h3>Lumos: Let there be Language Model System Certification
+  <a href= "https://arxiv.org/abs/2512.02966"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Isha Chaudhary, Vedaant Jain, Avaljot Singh, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh, Arxiv 2025.</p>
+
 <h3>Matching Ranks Over Probability Yields Truly Deep Safety Alignment
   <a href= "https://jason-vega.github.io/papers/presto.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Jason Vega, Gagandeep Singh, Arxiv 2025.</p>
 
 
-<h3>Lumos: Let there be Language Model System Certification
-  <a href= "https://arxiv.org/abs/2512.02966"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Isha Chaudhary, Vedaant Jain, Avaljot Singh, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh, Arxiv 2025.</p>
+
 
 <h3>Cost-Driven Synthesis of Sound Abstract Interpreters
   <a href= "https://arxiv.org/abs/2511.13663"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Qiuhan Gu, Avaljot Singh, Gagandeep Singh, Arxiv 2025.</p>
 
 
-<h3>Quantifying Distributional Robustness of Agentic Tool-Selection
-  <a href= "https://arxiv.org/abs/2510.03992"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p> Jehyeok Yeon, Isha Chaudhary, Gagandeep Singh, Arxiv 2025.</p>
+
 
 <h3>A Tensor-Based Compiler and a Runtime for Neuron-Level DNN Certifier Specifications
   <a href= "https://arxiv.org/pdf/2507.20055"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
@@ -50,6 +50,7 @@ author_profile: true
 <h3>Universal Synthesis of Differentiably Tunable Numerical Abstract Transformers
   <a href= "https://www.arxiv.org/abs/2507.11827"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Shaurya Gomber, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
+
 
 
 <h3>Compression Aware Certified Training
@@ -96,6 +97,14 @@ author_profile: true
 
 
 <h2> Workshops and Short Papers</h2>
+
+<h3>Unified Operational Formalism for LLM-Based Theorem-Proving Systems 
+  <a href= "/files/Maestro.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Avaljot Singh, Shaurya Gomber, Yasmin Sarita, Jose Meseguer, Gagandeep Singh, VerifAI-2@ICLR 2026 </p>
+
+<h3>Quantifying Distributional Robustness of Agentic Tool-Selection
+  <a href= "https://arxiv.org/abs/2510.03992"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p> Jehyeok Yeon, Isha Chaudhary, Gagandeep Singh, AIWILD@ICLR 2026.</p>
 
 <h3>Learning a Pessimistic Reward Model in RLHF
   <a href= "https://arxiv.org/abs/2505.20556"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
