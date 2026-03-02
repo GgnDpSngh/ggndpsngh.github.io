@@ -80,10 +80,6 @@ author_profile: true
 <p>Yuchen Yang, Shubham Ugare, Yifan Zhao, Gagandeep Singh, Sasa Misailovic, Arxiv 2024.</p>
 
 
-<h3>Towards Universal Certified Robustness with Multi-Norm Training
-  <a href= "https://arxiv.org/abs/2410.03000"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Enyi Jiang, Gagandeep Singh, Arxiv 2024.</p>
-
 
 
 <h3>Optimal Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning  
