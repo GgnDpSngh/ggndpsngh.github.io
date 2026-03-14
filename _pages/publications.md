@@ -9,7 +9,7 @@ author_profile: true
 
 
 <h3>Risks Create a Jagged Frontier of LLM Productivity Gains Across Computer Occupations
-  <a href= "/files/jagged.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <a href= "/files/jagged.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a><a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6381580"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Deepika Chawla, Gagandeep Singh, Elham Khorasani Buxton, Meicen Sun, Lav R. Varshney, Jeremy Riel, Craig De Voto </p>
 
 <h3>Formal Synthesis of Certifiably Robust Neural Lyapunov-Barrier Certificates
