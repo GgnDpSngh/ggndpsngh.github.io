@@ -6,7 +6,9 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
-
+<h3>SEVerA: Verified Synthesis of Self-Evolving Agents
+  <a href= "https://arxiv.org/abs/2603.25111"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Debangshu Banerjee, Changming Xu, Gagandeep Singh, Arxiv 2026.</p>
 
 <h3>Risks Create a Jagged Frontier of LLM Productivity Gains Across Computer Occupations
   <a href= "/files/jagged.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a><a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6381580"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
