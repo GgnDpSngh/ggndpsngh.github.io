@@ -37,10 +37,6 @@ author_profile: true
 
 
 
-<h3>Cost-Driven Synthesis of Sound Abstract Interpreters
-  <a href= "https://arxiv.org/abs/2511.13663"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Qiuhan Gu, Avaljot Singh, Gagandeep Singh, Arxiv 2025.</p>
-
 
 
 
@@ -48,10 +44,6 @@ author_profile: true
   <a href= "https://arxiv.org/pdf/2507.20055"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Avaljot Singh, Yasmin Chandini Sarita, Aditya Mishra, Ishaan Goyal, Gagandeep Singh, Charith Mendis, Arxiv 2025.</p>
 
-
-<h3>Universal Synthesis of Differentiably Tunable Numerical Abstract Transformers
-  <a href= "https://www.arxiv.org/abs/2507.11827"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Shaurya Gomber, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
 
 
 
