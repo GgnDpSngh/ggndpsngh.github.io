@@ -18,13 +18,6 @@ author_profile: true
   <a href= "https://arxiv.org/pdf/2602.05311"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Chengxiao Wang, Haoze Wu, Gagandeep Singh, Arxiv 2026.</p>
 
-<h3>Enforcing Temporal Constraints for LLM Agents
-  <a href= "/files/AgentC.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Adharsh Kamath, Sishen Zhang, Calvin Xu, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, Arxiv 2025.</p>
-
-<h3>BEAVER: An Efficient Deterministic LLM Verifier
-  <a href= "/files/BEAVER.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Tarun Suresh, Nalin Wadhwa, Debangshu Banerjee, Gagandeep Singh, Arxiv 2025.</p>
 
 <h3>Lumos: Let there be Language Model System Certification
   <a href= "https://arxiv.org/abs/2512.02966"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
@@ -91,6 +84,15 @@ author_profile: true
 
 
 <h2> Workshops and Short Papers</h2>
+
+<h3>Enforcing Temporal Constraints for LLM Agents
+  <a href= "/files/AgentC.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Adharsh Kamath, Sishen Zhang, Calvin Xu, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, VerifAI@ICLR 2026 <b>(Oral)</b>.</p>
+
+<h3>BEAVER: An Efficient Deterministic LLM Verifier
+  <a href= "/files/BEAVER.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Tarun Suresh, Nalin Wadhwa, Debangshu Banerjee, Gagandeep Singh, VerifAI@ICLR 2026 <b>(Oral)</b>.</p>
+
 
 <h3>Unified Operational Formalism for LLM-Based Theorem-Proving Systems 
   <a href= "/files/Maestro.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
