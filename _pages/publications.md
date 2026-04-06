@@ -96,7 +96,7 @@ author_profile: true
 
 <h3>Unified Operational Formalism for LLM-Based Theorem-Proving Systems 
   <a href= "/files/Maestro.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Avaljot Singh, Shaurya Gomber, Yasmin Sarita, Jose Meseguer, Gagandeep Singh, VerifAI-2@ICLR 2026 </p>
+<p>Avaljot Singh, Shaurya Gomber, Yasmin Sarita, Jose Meseguer, Gagandeep Singh, VerifAI@ICLR 2026 </p>
 
 <h3>Quantifying Distributional Robustness of Agentic Tool-Selection
   <a href= "https://arxiv.org/abs/2510.03992"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
