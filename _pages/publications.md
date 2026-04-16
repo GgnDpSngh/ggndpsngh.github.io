@@ -63,11 +63,6 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2411.02785"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Jason Vega, Junsheng Huang, Gaokai Zhang, Hangoo Kang, Minjia Zhang, Gagandeep Singh, Arxiv 2024.</p>
 
-<h3>ARQ: A Mixed-Precision Quantization Framework for Accurate and Certifiably Robust DNNs
-  <a href= "https://arxiv.org/abs/2410.24214"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Yuchen Yang, Shubham Ugare, Yifan Zhao, Gagandeep Singh, Sasa Misailovic, Arxiv 2024.</p>
-
-
 
 
 <h3>Optimal Reward Labeling: Bridging Offline Preference and Reward-Based Reinforcement Learning  
