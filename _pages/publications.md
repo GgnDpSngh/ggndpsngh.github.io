@@ -48,17 +48,6 @@ author_profile: true
 
 
 
-
-
-<h3>Misaligning Reasoning with Answers--A Framework for Assessing LLM CoT Robustness
-  <a href= "https://arxiv.org/abs/2505.17406"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Enyi Jiang, Changming Xu, Nischay Singh, Gagandeep Singh, Arxiv 2025.</p>
-
-
-
-
-
-
 <h3>Stochastic Monkeys at Play: Random Augmentations Cheaply Break LLM Safety Alignment
   <a href= "https://arxiv.org/abs/2411.02785"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Jason Vega, Junsheng Huang, Gaokai Zhang, Hangoo Kang, Minjia Zhang, Gagandeep Singh, Arxiv 2024.</p>
