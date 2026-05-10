@@ -6,6 +6,10 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>Revealing Interpretable Failure Modes of VLMs
+  <a href= "/files/Revelio.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Isha Chaudhary, Vedaant Jain, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh.</p>
+
 <h3>SEVerA: Verified Synthesis of Self-Evolving Agents
   <a href= "https://arxiv.org/abs/2603.25111"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Debangshu Banerjee, Changming Xu, Gagandeep Singh, Arxiv 2026.</p>
