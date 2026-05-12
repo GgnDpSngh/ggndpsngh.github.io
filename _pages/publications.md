@@ -14,8 +14,8 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2603.25111"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Debangshu Banerjee, Changming Xu, Gagandeep Singh, Arxiv 2026.</p>
 
-<h3>Risks Create a Jagged Frontier of LLM Productivity Gains Across Computer Occupations
-  <a href= "/files/jagged.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a><a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6381580"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<h3>Risks Create a Doubly Jagged Frontier of LLM Productivity Gains Across Computer Occupations
+  <a href= "/files/doublyjagged.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a><a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6381580"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Deepika Chawla, Gagandeep Singh, Elham Khorasani Buxton, Meicen Sun, Lav R. Varshney, Jeremy Riel, Craig De Voto </p>
 
 <h3>Formal Synthesis of Certifiably Robust Neural Lyapunov-Barrier Certificates
