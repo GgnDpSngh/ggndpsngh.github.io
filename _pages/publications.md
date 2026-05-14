@@ -7,7 +7,7 @@ author_profile: true
 <h2> Preprints</h2>
 
 <h3>Revealing Interpretable Failure Modes of VLMs
-  <a href= "/files/Revelio.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <a href= "https://arxiv.org/pdf/2605.12674"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Vedaant Jain, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh.</p>
 
 <h3>SEVerA: Verified Synthesis of Self-Evolving Agents
@@ -74,16 +74,16 @@ author_profile: true
 <h2> Workshops and Short Papers</h2>
 
 <h3>Enforcing Temporal Constraints for LLM Agents
-  <a href= "/files/AgentC.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <a href= "https://arxiv.org/abs/2512.23738"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Adharsh Kamath, Sishen Zhang, Calvin Xu, Shubham Ugare, Gagandeep Singh, Sasa Misailovic, VerifAI@ICLR 2026 <b>(Oral)</b>.</p>
 
 <h3>BEAVER: An Efficient Deterministic LLM Verifier
-  <a href= "/files/BEAVER.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <a href= "https://arxiv.org/abs/2512.05439"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Tarun Suresh, Nalin Wadhwa, Debangshu Banerjee, Gagandeep Singh, VerifAI@ICLR 2026 <b>(Oral)</b>.</p>
 
 
 <h3>Unified Operational Formalism for LLM-Based Theorem-Proving Systems 
-  <a href= "/files/Maestro.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+  <a href= "https://openreview.net/forum?id=OCmzbtoeUx"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Avaljot Singh, Shaurya Gomber, Yasmin Sarita, Jose Meseguer, Gagandeep Singh, VerifAI@ICLR 2026 </p>
 
 <h3>Quantifying Distributional Robustness of Agentic Tool-Selection
