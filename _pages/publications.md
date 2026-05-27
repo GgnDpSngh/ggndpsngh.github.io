@@ -67,7 +67,9 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2402.09695"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yinglun Xu, Rohan Gumaste, Gagandeep Singh, Arxiv 2024.</p>
 
-
+<h3>LLM Representations for Enhanced Asymmetric Error Classification
+  <a href= "/files/asymmetric.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Isha Chaudhary, Jason Vega, Mahmood Sharif, Nina Narodytska, Gagandeep Singh, 2025.</p>
 
 
 
