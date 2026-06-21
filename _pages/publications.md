@@ -10,9 +10,6 @@ author_profile: true
   <a href= "https://arxiv.org/pdf/2605.12674"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Vedaant Jain, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh.</p>
 
-<h3>SEVerA: Verified Synthesis of Self-Evolving Agents
-  <a href= "https://arxiv.org/abs/2603.25111"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Debangshu Banerjee, Changming Xu, Gagandeep Singh, Arxiv 2026.</p>
 
 <h3>Risks Make LLM Productivity Frontier Doubly Jagged
   <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6381580"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
@@ -27,9 +24,7 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2512.02966"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Vedaant Jain, Avaljot Singh, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh, Arxiv 2025.</p>
 
-<h3>Matching Ranks Over Probability Yields Truly Deep Safety Alignment
-  <a href= "https://jason-vega.github.io/papers/presto.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Jason Vega, Gagandeep Singh, Arxiv 2025.</p>
+
 
 
 
@@ -74,6 +69,14 @@ author_profile: true
 
 
 <h2> Workshops and Short Papers</h2>
+
+<h3>SEVerA: Verified Synthesis of Self-Evolving Agents
+  <a href= "https://arxiv.org/abs/2603.25111"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Debangshu Banerjee, Changming Xu, Gagandeep Singh, AI for Math@ICML 2026 <b> (Spotlight)</b>.</p>
+
+<h3>Matching Ranks Over Probability Yields Truly Deep Safety Alignment
+  <a href= "https://jason-vega.github.io/papers/presto.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Jason Vega, Gagandeep Singh, AI4GOOD@ICML 2026.</p>
 
 <h3>Enforcing Temporal Constraints for LLM Agents
   <a href= "https://arxiv.org/abs/2512.23738"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
