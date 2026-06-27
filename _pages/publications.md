@@ -108,10 +108,6 @@ author_profile: true
 <p>Gagandeep Singh, Deepika Chawla, TAIG@ICML 2025.</p>
 
 
-<h3>Data Shifts Hurt CoT: A Theoretical Study
-  <a href= "https://arxiv.org/abs/2506.10647"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Lang Yin, Debangshu Banerjee, Gagandeep Singh, R2-FM@ICML 2025.</p>
-
 <h3>Specification Generation for Neural Networks in Systems
   <a href= "https://arxiv.org/abs/2412.03028"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Isha Chaudhary, Shuyi Lin, Cheng Tan, Gagandeep Singh, ML4Wireless@ICML 2025, ICSE Posters 2026.</p>
