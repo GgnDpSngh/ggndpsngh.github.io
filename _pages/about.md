@@ -10,22 +10,17 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and theoretically principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group is sponsored by **NSF**, **Amazon**, **Google**, **Qualcomm**, **Bloomberg** and **Open Philanthropy**. Some of the topics (in no particular order) that we currently work on are 
 <ul>
-   <li>Formal Methods for LLMs</li>
-  <li> Robust and Efficient Reinforcement Learning </li>
-    <li>Learning from Preference Data</li>
-  
-   <li>LLMs for Mathematical Reasoning</li> 
+   <li>Formal Verification of LLMs, VLMs, and Agents (yes, it's possible)</li>
+  <li> Constrained LLM Generation with Semantic Constraints</li>
+    <li>Mechanistic Interpretability</li>
+  <li>Alignment Methods for LLMs<\li>
+   <li>Reinforcement Learning from Human Feedback</li> 
    <li>Theoretical Understanding of LLMs</li>
   <li> Securing Agentic AI </li>
-  <li> Neural Networks for Computer Systems with Formal Guarantees</li>
- <li>Provably Robust Machine Learning for Wireless</li>
-  
-    <li>Explainable AI</li>
-    <li>Neural Network Verification  </li> 
-  <li>Training with Logical Constraints  </li> 
-      <li>NeuroSymbolic Program Analysis</li>
+    <li> Compilers for Abstract Interpretation</li>
   <li>Numerical Abstract Interpretation </li> 
- 
+ <li>Solvers for Non-linear and Probabilistic Computations</li>
+    <li>Economic and Social Impact of LLMs and AI Governance</li>
 </ul>
 
 I obtained a PhD in Computer Science from ETH Zurich in 2020 working with <a href="https://acl.inf.ethz.ch/people/markusp/">Prof. Markus Püschel</a> and <a href="https://www.sri.inf.ethz.ch/people/martin"> Prof. Martin Vechev</a>. During my PhD, I designed scalable and precise automated reasoning methods and tools for programs and deep neural networks. I co-received the **ACM SIGPLAN Doctoral Dissertation Award** given annually to the best dissertations in the area of Programming Languages. Before that, I completed a Masters in Computer Science at ETH in 2014 receiving the **ETH Master Medal** and Bachelors in Computer Science and Engineering from IIT Patna in 2012 receiving the **President of India Gold Medal**. 
