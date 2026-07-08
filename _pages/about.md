@@ -13,8 +13,8 @@ I am an Assistant Professor in the Department of Computer Science at the Univers
    <li>Formal Verification of LLMs, VLMs, and Agents (yes, it's possible)</li>
   <li> Constrained LLM Generation with Semantic Constraints</li>
     <li>Mechanistic Interpretability</li>
-  <li>Alignment Methods for LLMs<\li>
-   <li>Reinforcement Learning from Human Feedback<\li> 
+  <li>Alignment Methods for LLMs</li>
+   <li>Reinforcement Learning from Human Feedback</li> 
    <li>Theoretical Understanding of LLMs</li>
   <li> Securing Agentic AI </li>
     <li> Compilers for Abstract Interpretation</li>
