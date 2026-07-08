@@ -99,9 +99,6 @@ author_profile: true
   <a href= "https://arxiv.org/abs/2505.20556"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>Yinglun Xu, Hangoo Kang, Tarun Suresh, Yuxuan Wan, Gagandeep Singh, ARLET@NeurIPS 2025.</p>
 
-<h3>Improving Assembly Code Performance with Large Language Models via Reinforcement Learning
-  <a href= "https://arxiv.org/abs/2505.11480"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Anjiang Wei, Tarun Suresh, Huanmi Tan, Yinglun Xu, Gagandeep Singh, Ke Wang, Alex Aiken, DL4C@NeurIPS 2025.</p>
 
 <h3>Position: Formal Methods are the Principled Foundation of Safe AI
   <a href= "https://openreview.net/forum?id=7V5CDSsjB7"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
