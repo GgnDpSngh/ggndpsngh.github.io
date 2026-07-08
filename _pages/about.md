@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the Department of Computer Science at the University of Illinois Urbana-Champaign (UIUC), where I lead the FOrmally Certified Automation and Learning (FOCAL) Lab. My current focus is on combining ideas from Formal Logic, Machine Learning, and Systems research to develop systematic and theoretically principled approaches (as opposed to "IT WORKS") for **constructing intelligent compute systems with formal guarantees about their behavior and safety**. Our group is sponsored by **NSF**, **Amazon**, **Google**, **Qualcomm**, **Bloomberg** and **Open Philanthropy**. Some of the topics (in no particular order) that we currently work on are 
 <ul>
-   <li>Formal Verification of LLMs, VLMs, and Agents (yes, it's possible!)</li>
+   <li>Formal Verification of LLMs, VLMs, and Agents </li>
   <li> Constrained LLM Generation with Semantic Constraints</li>
     <li>Mechanistic Interpretability</li>
   <li>Alignment Methods for LLMs</li>
