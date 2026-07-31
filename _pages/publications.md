@@ -70,9 +70,14 @@ author_profile: true
 
 <h2> Workshops and Short Papers</h2>
 
+<h3>Mechanistic Interpretability of Adversarial Suffixes Reveals Non-Robust Shortcuts of Safety Monitors
+  <a href= "https://openreview.net/forum?id=TVIZyK2AEW"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>David Shu Cheung, Jason Vega, Hunar Pasricha, Brian Kim, Milind Kumar Lalwani, Enyi Jiang, Gagandeep Singh, Mech Interp@ICML 2026.</p>
+
+
 <h3>SEVerA: Verified Synthesis of Self-Evolving Agents
   <a href= "https://arxiv.org/abs/2603.25111"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Debangshu Banerjee, Changming Xu, Gagandeep Singh, AI for Math@ICML 2026 <b> (Spotlight)</b>.</p>
+<p>Debangshu Banerjee, Changming Xu, Gagandeep Singh, AI for Math@ICML 2026 <b> (Spotlight, Honorable Mention for Best Paper)</b>.</p>
 
 <h3>Matching Ranks Over Probability Yields Truly Deep Safety Alignment
   <a href= "https://jason-vega.github.io/papers/presto.pdf"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
