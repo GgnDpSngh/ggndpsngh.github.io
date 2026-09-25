@@ -11,9 +11,6 @@ author_profile: true
 <p>Isha Chaudhary, Vedaant Jain, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh.</p>
 
 
-<h3>Risks Make LLM Productivity Frontier Doubly Jagged
-  <a href= "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6381580"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Deepika Chawla, Gagandeep Singh, Elham Khorasani Buxton, Meicen Sun, Lav R. Varshney, Jeremy Riel, Craig De Voto </p>
 
 <h3>Formal Synthesis of Certifiably Robust Neural Lyapunov-Barrier Certificates
   <a href= "https://arxiv.org/pdf/2602.05311"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
