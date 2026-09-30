@@ -67,6 +67,12 @@ author_profile: true
 
 <h2> Workshops and Short Papers</h2>
 
+<h3>metaDecode: Meta Constrained Decoder
+  <a href= "https://openreview.net/forum?id=GWNLnwZPDl"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Aadivya Raushan, Advayth Pashupati, Debangshu Banerjee, Changming Xu, Gagandeep Singh, VERICODEGEN@NeurIPS 2026.</p>
+
+
+
 <h3>Mechanistic Interpretability of Adversarial Suffixes Reveals Non-Robust Shortcuts of Safety Monitors
   <a href= "https://openreview.net/forum?id=TVIZyK2AEW"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
 <p>David Shu Cheung, Jason Vega, Hunar Pasricha, Brian Kim, Milind Kumar Lalwani, Enyi Jiang, Gagandeep Singh, Mech Interp@ICML 2026.</p>
