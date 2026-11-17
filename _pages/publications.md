@@ -6,9 +6,13 @@ author_profile: true
 ---
 <h2> Preprints</h2>
 
+<h3>A Nonlinear Abstract Domain for Bayesian Neural Networks
+  <a href= "https://arxiv.org/abs/2611.19126"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
+<p>Qiuhan Gu, Gagandeep Singh. Arxiv 2026</p>
+
 <h3>Revealing Interpretable Failure Modes of VLMs
   <a href= "https://arxiv.org/pdf/2605.12674"><i class="fas fa-fw fa-link zoom" aria-hidden="true"></i></a></h3>
-<p>Isha Chaudhary, Vedaant Jain, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh.</p>
+<p>Isha Chaudhary, Vedaant Jain, Kavya Sachdeva, Sayan Ranu, Gagandeep Singh. Arxiv 2026</p>
 
 
 
